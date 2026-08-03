@@ -6,3 +6,5 @@
 - 설계: [[DESIGN-v2]]
 - 규칙: [[AGENTS]]
 - 셋업: [[SETUP]]
+
+GitHub: `osopung/Repo` (이력·복구용 · private)

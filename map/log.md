@@ -190,4 +190,4 @@ append-only. 과거 블록은 수정하지 않는다.
 
 - `git init -b main` · `.gitignore` (workspace · 대용량 원고 제외)
 - Sync와 병행 · daily 예약 자동화와 무관
-- 첫 커밋 `e63e7af` · 원격 이름: **osopung-Repo** (private · 생성·push 대기)
+- 첫 커밋 · 원격: **https://github.com/osopung/Repo** (private)
