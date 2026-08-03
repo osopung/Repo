@@ -1,0 +1,9 @@
+.DS_Store
+.trash/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+
+# 대용량·임베드 원고 (볼트에는 둠 · Repo 비대 방지)
+assets/『슬기로운 은퇴생활』.md
