@@ -7,18 +7,20 @@
 
 > 매일 09:00 이후 사서와 처음 대화할 때 갱신 · 채팅 맨 앞에 당일 `map/daily/` 링크. 제안만 — 반영은 내가 한다.
 
-- **오늘 남은 초안 1건** — [[library/notes/일기-2026-08-02|일기 8/2]] 또는 [[library/notes/먼저-행동하라-캘리|먼저 행동하라]]만 감수하면 됨. (Wispr·기록강의·행신·그림편지 등은 감수 반영 완료 → `final`)
-- **시화·캘리** — [[library/notes/먼저-행동하라-캘리|캘리]] 노션 링크 있음. [[art/drawing/하림에게-그림편지|그림편지]]는 `art/drawing/` (사진 `assets/` 유지).
-- **(선택) 태국 프로젝트** — [[library/projects/thailand-84-days|84일 태국]]만 아직 초안. 급하지 않음.
+- **브레인 트리니티 한 줄 감수** — [[library/notes/브레인-트리니티-LLM-wiki-RAG]] 「기록=시간 여행」초안을 다듬고 `- [x] 감수`.
+- **숲채원·파크골프 한 줄** — [[library/notes/일기-2026-08-06-숲채원-정상]] · [[library/notes/일기-2026-08-05-파크골프]] 중 1건 감수.
+- **쥬디 다음 장면** — 장면 단위로 inbox에 붙여 오면 태도·심리 탐침으로 이어감.
 
 ## 오늘 / 이번 주
 
-- [[library/notes/일기-2026-08-02|일기 8/2]] · [[library/notes/먼저-행동하라-캘리|먼저 행동하라 캘리]] · [[art/drawing/하림에게-그림편지|그림편지]]
+- **감수:** [[library/notes/일기-2026-08-02|일기 8/2]] · [[library/notes/먼저-행동하라-캘리|먼저 행동하라 캘리]] (draft)
+- **주간:** [[map/weekly/2026-W32|weekly W32]] · [[map/daily/2026-08-03|daily 8/3]]
+- [[art/drawing/하림에게-그림편지|그림편지]] · [[essays/말이-기록이-되다|말이 기록이 되다]]
 - 기록 루프: [[library/notes/wispr-flow|Wispr]] · [[library/notes/기록강의-1-3|기록강의]] · [[art/_index|art·노션 갤러리]]
 - [[library/ideas (생각의 축)/기록하는-인간|기록하는 인간]] · [[library/ideas (생각의 축)/입구로서의-inbox|inbox]] · [[library/ideas (생각의 축)/몸과-말|몸과 말]]
-- MOC: [[map/moc/record|기록]] · ★5 [[conversations/2026-08-02-record-moc-star5|오늘 대화록]]
-- 에세이: [[essays/말이-기록이-되다|말이 기록이 되다]] · 책 원고: [[library/projects/슬기로운-은퇴생활|슬기로운 은퇴생활]]
-- inbox → 자동 ingest · daily → 09:00 이후 첫 대화 때
+- MOC: [[map/moc/record|기록]] · ★5 [[conversations/2026-08-02-record-moc-star5|대화록]]
+- 책 원고: [[library/projects/슬기로운-은퇴생활|슬기로운 은퇴생활]] _(달 초점 밖 · 프로젝트)_
+- inbox → **사서 접속 시** ingest · daily → 09:00 이후 첫 대화 · Git(`osopung/Repo`)은 이력 배경
 
 ## 바로가기
 
@@ -31,7 +33,7 @@
 | 대화록 | [[conversations/_index\|conversations]] |
 | 목차·이력 | [[map/index\|index]] · [[map/log\|log]] |
 
-## 이번 달 초점 (초안)
+## 이번 달 초점
 
 1. 일기·STT를 끊기지 않게 남기기  
 2. 캘리/사진 중 **손에 잡히는 작품 1~2점**만 `art/`에  

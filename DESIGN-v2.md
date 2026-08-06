@@ -60,11 +60,11 @@ v1(`오소풍의 모든것`)은 Karpathy식 LLM Wiki 연습이었다. 배운 점
 
 | 영역 | 내용 |
 |------|------|
-| **자동 ingest** | `inbox/` 미처리 `.md` → **제한 없이 바로** 노트 구조화 (명령 불필요 · 애매하면 보류) |
+| **접속 시 ingest** | 편집장이 사서에게 **접속한 시점**에 `inbox/` 미처리 `.md` 소화 (대기 중엔 쌓아 둠 · 애매하면 보류) |
 | 초안 | 요약·`## 내 한 줄` **(초안)** + `- [ ] 감수` · `status: draft` |
 | 정식 반영 | 편집장이 `- [x] 감수`한 노트 → `(초안)` 제거 · `status: final` |
 | **daily** | 관심·중요 일 기준 **제안 1~3개** (제안의 자동 반영 없음 · inbox는 위 규칙으로 소화) |
-| 대화록 | 합의만 `conversations/`에 정리 (`대화록` 명령 시) |
+| 대화록 · AI 로그 | 합의 + **세 줄 세이브**(한 일/미결/다음) → `conversations/` 또는 daily |
 | query | 위키 근거 답변, 에세이 개요 제안 |
 | lint | 깨진 링크·고아·누락 검사 / `--fix` 시 안전 수정만 |
 | log | `map/log.md` **append만** |
@@ -83,7 +83,7 @@ v1(`오소풍의 모든것`)은 Karpathy식 LLM Wiki 연습이었다. 배운 점
 
 ```
 사람:  capture(inbox) / 승인 / 문장 고치기 / 미디어·Sync
-에이전트: inbox 자동 ingest · 초안 · daily · lint · 대화록 · weekly 제안
+에이전트: 접속 시 inbox ingest · 초안 · daily · lint · 대화록·AI 로그 · weekly 제안
          ↓
 사람:   (초안)→내 문장 · daily/weekly 반영 · idea 승격
 ```
@@ -97,7 +97,8 @@ v1(`오소풍의 모든것`)은 Karpathy식 LLM Wiki 연습이었다. 배운 점
 전체를 매일 순회하지 않는다. **짧은 스캔 + 제안 ≥ 1 · ≤ 3.**
 
 **언제:** 매일 09:00(KST) 이후, 그날 사서와 처음 대화할 때 자동 준비. 클라우드 예약 없음(Git은 이력용일 뿐).  
-**전달:** 채팅 맨 앞에 당일 `map/daily/YYYY-MM-DD` 클릭 링크를 올리고, 가능하면 파일을 연다.
+**전달:** 채팅 맨 앞에 **Cursor 클릭 링크** — `[오늘의 daily](map/daily/YYYY-MM-DD.md)` (wikilink만 금지 · 채팅에서 안 열림). 가능하면 파일도 연다.  
+**weekly:** `[주간 weekly](map/weekly/YYYY-Www.md)` 같은 방식으로 채팅에 올린다.
 
 ### 스캔 범위 (이것만)
 
@@ -109,7 +110,7 @@ v1(`오소풍의 모든것`)은 Karpathy식 LLM Wiki 연습이었다. 배운 점
 ### 제안 종류 (예시)
 
 - 오늘 이을 **한 줄·한 장면**  
-- (inbox 미처리는 자동 ingest — daily 제안 목록에 넣지 않아도 됨)  
+- (inbox 미처리는 **접속 시** ingest — daily 제안 목록에 넣지 않아도 됨)  
 - art/essays로 옮길 조각  
 - 이을 `[[링크]]`  
 - weekly에 올릴 논지 후보  
@@ -119,7 +120,7 @@ v1(`오소풍의 모든것`)은 Karpathy식 LLM Wiki 연습이었다. 배운 점
 - 위치: `Home.md` → **사서 제안 (오늘)** 섹션을 덮어씀 (당일분)  
 - (선택) 남기고 싶으면 `map/daily/YYYY-MM-DD.md`에 복사  
 - `map/log.md`에 `daily | …` **append**  
-- daily **제안**으로는 노트 생성·논지 확정하지 않음 (inbox 자동 ingest는 §7·[[AGENTS]] 별도)
+- daily **제안**으로는 노트 생성·논지 확정하지 않음 (inbox **접속 시** ingest는 §7·[[AGENTS]] 별도)
 
 ### daily vs weekly
 
@@ -231,6 +232,11 @@ updated: YYYY-MM-DD
 ## 맥락
 한두 문장 — 왜 이 대화를 했는가.
 
+## 세 줄 세이브 (AI 로그)
+- **한 일:** …
+- **미결:** …
+- **다음:** …
+
 ## 합의 · 결정
 - 결정 1
 - 결정 2
@@ -245,14 +251,19 @@ updated: YYYY-MM-DD
 필요한 인용·세부만 (전문 붙여넣기 금지)
 ```
 
+### AI 로그 (세 줄 세이브) — 오소풍 최소안
+
+긴 Cursor 세션 끝에 **한 일 / 미결 / 다음**만 남긴다. (`map/log`는 시스템용 · 작업 세이브와 분리)  
+짧은 세션이면 당일 `map/daily/`에 같은 세 줄만 append. 규칙: [[AGENTS#AI-로그-세-줄-세이브]].
+
 ### 축적 규칙
 
 | 규칙    | 내용                                              |
 | ----- | ----------------------------------------------- |
-| 언제 쓰나 | 설계·정책·큰 ingest 방향이 바뀔 때 · 사용자가 `대화록`을 요청할 때     |
+| 언제 쓰나 | 설계·정책·큰 ingest 방향이 바뀔 때 · 사용자가 `대화록`/`AI 로그`를 요청할 때 · **긴 세션 끝** |
 | 주제    | `topics:` + `_index.md`의 주제 섹션에 링크              |
 | 날짜    | 파일명 앞날짜 · `_index.md` 최근 목록                     |
-| 분량    | 결정 중심. 채팅 로그 원문 전체 복붙 금지                        |
+| 분량    | 결정 중심 + 세 줄 세이브. 채팅 로그 원문 전체 복붙 금지                        |
 | index | `conversations/_index.md`에 주제별·최근만 갱신 (전량 자동 X) |
 | log   | `map/log.md`에 `conversation \| 주제` append       |
 
@@ -355,9 +366,10 @@ media: []          # 외부 대용량 경로 (있을 때만)
 
 | 명령 | 동작 |
 |------|------|
-| _(자동)_ / `ingest <파일>` | inbox 미처리는 **제한 없이 바로** 자동 ingest. 특정 파일만 지정할 때 `ingest <파일>`. **내 한 줄**(초안) 필수. log append |
+| _(접속 시)_ / `ingest <파일>` | 사서 **접속(대화 시작) 시점**에 inbox 미처리 ingest. 특정 파일만 `ingest <파일>`. **내 한 줄**(초안) 필수. log append |
 | `query: <질문>` | 위키만 근거로 답변. 필요 시 essays 초안 제안 |
 | `대화록` / `conversation` | 이번 대화의 합의·결정을 `conversations/YYYY-MM-DD-주제.md`로 정리 · `_index`·log 갱신 |
+| `AI 로그` | 긴 세션 끝 **세 줄 세이브**(한 일/미결/다음) · conversations 또는 당일 daily |
 | `daily` | §2-2 — 관심·중요 일 기준 제안 1~3개 → Home「사서 제안」·log append (자동 반영 없음) |
 | `lint` | 검사만 보고 |
 | `lint --fix` | 안전 수정만 자동 + 나머지는 초안/제안 ([[AGENTS]] 참고) |
@@ -365,9 +377,9 @@ media: []          # 외부 대용량 경로 (있을 때만)
 
 ### Ingest 워크플로
 
-**기본:** 사람이 파일마다 `ingest …`를 치지 않는다. inbox에 넣으면 사서가 소화한다.
+**기본:** 사람이 파일마다 `ingest …`를 치지 않는다. inbox에 쌓아 두고, **사서에게 접속한 시점**에 소화한다.
 
-1. `inbox/` 스캔 (README·숨김 제외) — **건수 제한 없이** 바로 처리  
+1. 세션 시작 시 `inbox/` 스캔 (README·숨김 제외) — **건수 제한 없이** 처리  
 2. `map/index.md`, `purpose.md`로 맥락 파악  
 3. 목적지 결정: 일상·학습→`notes/`, 여행·진행→`projects/`, 작품→`art/`, 글→`essays/`  
    - 애매하면 **제안만 하고 해당 건 보류**  
@@ -425,7 +437,7 @@ media: []          # 외부 대용량 경로 (있을 때만)
         │
         ▼
 [맥 Cursor]
-  inbox 자동 ingest → library/notes/ | projects/ | art/ | essays/
+  inbox 접속 시 ingest → library/notes/ | projects/ | art/ | essays/
   map/log append
         │
         ▼

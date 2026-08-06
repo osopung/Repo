@@ -11,6 +11,16 @@
 - [[library/ideas (생각의 축)/몸과-말|몸과 말]]
 
 ## 최근
+- [[오소풍]]
+- [[library/notes/브레인-트리니티-형광-대화-인사이트|브레인 트리니티 · 형광·대화·인사이트]]
+- [[library/notes/브레인-트리니티-LLM-wiki-RAG|브레인 트리니티 · LLM wiki와 RAG]]
+- [[library/notes/일기-2026-08-06-숲채원-정상|일기 — 숲채원 정상]]
+- [[library/notes/일기-2026-08-05-파크골프|일기 2026-08-05 — 파크골프]]
+- [[library/notes/솔트룩스-이경일-온톨로지|솔트룩스 이경일 — 온톨로지]]
+- ★5 [[library/notes/탐침-복붙-3종|탐침 복붙 3종]] · [[library/notes/질문-AI가-되묻게|질문 — AI가 되묻게]]
+- ★5 [[conversations/2026-08-03-question-star5|2026-08-03 · 질문 대화록]]
+- [[library/notes/옵시디언-지식-꺼내쓰기-구요한|옵시디언 지식 꺼내 쓰기 — 구요한]]
+- ★5 [[conversations/2026-08-02-record-moc-star5|2026-08-02 · 기록 · ideas · MOC]]
 - [[library/projects/슬기로운-은퇴생활|슬기로운 은퇴생활]] (책 원고)
 - [[essays/말이-기록이-되다|말이 기록이 되다]]
 - [[library/ideas (생각의 축)/기록하는-인간|기록하는 인간]] · [[library/ideas (생각의 축)/입구로서의-inbox|입구로서의 inbox]] · [[library/ideas (생각의 축)/몸과-말|몸과 말]]

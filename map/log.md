@@ -191,3 +191,167 @@ append-only. 과거 블록은 수정하지 않는다.
 - `git init -b main` · `.gitignore` (workspace · 대용량 원고 제외)
 - Sync와 병행 · daily 예약 자동화와 무관
 - 첫 커밋 · 원격: **https://github.com/osopung/Repo** (private)
+
+## [2026-08-03] daily | 초안 감수 · weekly · (선택) 오늘 기록
+
+- Home「사서 제안」갱신 · `map/daily/2026-08-03.md`
+
+## [2026-08-03] weekly | W32 제안 (승인 대기)
+
+- `map/weekly/2026-W32.md` — purpose·Home·moc·index 제안만 (미반영)
+
+## [2026-08-03] design | daily·weekly 채팅 링크 필수
+
+- 합의: 채팅은 Cursor용 `[…](map/….md)` · 볼트 안은 `[[wikilink]]`
+- `[[…]]`만 올리면 채팅에서 링크가 안 열림 → 형식 수정
+- AGENTS · DESIGN · [[오소풍]] 반영
+
+## [2026-08-03] weekly | W32 A-1 반영
+
+- purpose 논지 4: Sync는 기기 · Git은 이력
+
+## [2026-08-03] weekly | W32 A-2 반영
+
+- purpose 논지 5: 사서가 daily로 기록·창작 · 편집장 감수 하에
+
+## [2026-08-03] weekly | W32 A-3 반영
+
+- purpose 헤더: `현재 논지 (편집장 감수 · weekly 손질)`
+
+## [2026-08-03] weekly | W32 B·D 반영
+
+- Home: 오늘/이번 주 · 이번 달 초점
+- index: [[오소풍]] · ★5 대화록을 최근에
+
+## [2026-08-03] weekly | W32 C 반영
+
+- [[map/moc/record|기록]] moc — 에세이 final · 책 원고 · updated
+- W32 A~D **전부 반영 완료**
+
+## [2026-08-03] media | 슬기로운-은퇴생활 본문 → 미디어 보관
+
+- `assets/『슬기로운 은퇴생활』.md` → `오소풍-미디어-보관/manuscripts/`
+- 허브 [[library/projects/슬기로운-은퇴생활]] embed 제거 · 경로·`media:` 갱신
+
+## [2026-08-03] note | 옵시디언-지식-꺼내쓰기-구요한 (초안)
+
+- [[library/notes/옵시디언-지식-꺼내쓰기-구요한]] — youtu.be/k2FQEZx8g4E 요약
+- 오소풍 대응 · Share 여지 · 내 한 줄 감수 대기
+
+## [2026-08-03] ops | Smart Composer 플러그인 설치
+
+- `.obsidian/plugins/obsidian-smart-composer` v1.2.9
+- `community-plugins.json`에 `smart-composer` 활성화
+- API/구독 연결은 편집장이 Obsidian 설정에서
+
+## [2026-08-03] ops | Smart Composer · Google 연동 성공
+
+- 편집장 확인: Gemini(Google) 연결 완료
+
+## [2026-08-03] ops | Smart Composer · Gemini 모델 사용 성공
+
+- 기본 모델이 Anthropic로 남아 키 오류 → Gemini로 전환 후 정상
+
+## [2026-08-03] note | 임베딩-embedding (초안)
+
+- [[library/notes/임베딩-embedding]] — 공부 첨부 정리 · `assets/IMG_8839-embedding.png`
+
+## [2026-08-03] viz | Mermaid — 루프 · CMDS
+
+- [[map/moc/record|기록 MOC]] 메인 루프
+- [[library/notes/옵시디언-지식-꺼내쓰기-구요한]] CMDS 단계
+
+## [2026-08-03] note | Smart Composer 시스템 프롬프트 (초안)
+
+- [[library/notes/Smart-Composer-시스템-프롬프트]] — 설정에 붙여넣을 고정문
+
+## [2026-08-03] ops | Smart Composer 시스템 프롬프트 보류
+
+- 편집장: 자유도 과제한 느낌 → 설정 미적용 · 노트만 보관
+
+## [2026-08-03] note | ★5 질문 — AI가 되묻게
+
+- [[library/notes/질문-AI가-되묻게]] · keywords: 질문 · star 5
+- 대화록: [[conversations/2026-08-03-question-star5]]
+
+## [2026-08-03] design | 질문·반대 규칙 정식화
+
+- AGENTS · [[오소풍]]: 질문 우선 · 사실·위험 시 분명한 반대 · 아첨·맹목 복종 금지
+
+## [2026-08-03] note | ★5 탐침 복붙 3종
+
+- [[library/notes/탐침-복붙-3종]] — 채팅용 한 줄 3개 · keywords: 질문·탐침
+
+## [2026-08-04] ingest | inbox 일괄 5건 (자동)
+
+- [[library/notes/일기-2026-08-04]] ← `8월 4일 화요일 다이어리.md` — 안중근 「일일무독서」· AI와 독서 다짐
+- [[library/notes/일기-2026-08-03-전철]] ← `Ttimes.md` + `8월 3일, 1기.md` (중복 원본 2건)
+- [[library/notes/Smart-Composer-사용법]] ← `Smart Composer 사용법.md` + `System Prompt.md`
+- [[library/notes/AI-독서-파트너-활용법]] ← `AI와 함께하는 독서 파트너 활용법.md` — Gemini 링크, 로그인 요구로 **요약 불가** (편집장 확인 필요)
+- inbox 원본 6건 → `_archive/` · `## 내 한 줄` (초안) — 편집장 감수 대기
+- 보류: `inbox/쥬디 할머니.md` — **빈 파일**이라 ingest 안 함 (편집장에게 질문)
+
+## [2026-08-04] essay | 두 개의 울타리 (초안)
+
+- [[essays/두 개의 울타리]] — 쥬디 할머니 함께읽기 → 둔내 소풍헌 1년·소로우 모델과 연결
+- [[library/notes/쥬디-할머니-박완서]] — 책 정보·함께 읽은 기록 (원문 전재는 안 함, 저작물)
+- `## 내 한 줄` (초안) — 편집장 감수 대기
+
+## [2026-08-04] note | 오소풍 타임라인 — 둔내 홀로 1년 · 소로우 모델
+
+- 편집장 확인: 은퇴 후 둔내 소풍헌 통나무집에서 홀로 1년, 「나는 작가다」 역할 자임, 월든·소로우가 모델
+- [[library/projects/슬기로운-은퇴생활|슬기로운 은퇴생활]] 3부(열매 — 홀로서기와 새로운 시작, 10~14장)와 직결 가능성
+- [[오소풍]] 타임라인 반영
+
+## [2026-08-04] conversation | 쥬디-할머니-함께읽기 방식 합의
+
+- 편집장 선택: **장면 단위**로 끊어 가져오기 · 이번 회 초점 = **인물(쥬디 할머니)의 태도·심리**
+- 사서는 해석·요약 대신 **탐침 질문 2~3개**로 응답 (본문 미보유 확인 · 추측 금지)
+- [[오소풍]] 사서 메모 반영
+
+## [2026-08-05] daily | 제안 3
+
+- [[map/daily/2026-08-05]] — 에세이 정식화 · 쥬디 다음 장면 · 일기 감수
+- inbox `쥬디 할머니.md` 빈 파일 — ingest 보류 유지
+
+## [2026-08-06] daily | 제안 3
+
+- [[map/daily/2026-08-06]] — 브레인 트리니티 감수 · 숲채원/파크골프 한 줄 · 쥬디 장면
+
+## [2026-08-06] ingest | YouTube 스크립트 · 일기 · 영상 요약
+
+- [[library/notes/브레인-트리니티-LLM-wiki-RAG]] ← `브레인-트리니티-LLM-wiki-스크립트.md` + `브레인 트리니티.md` — youtu.be/t4XEda3CB3Q 자막 전문(Web Clipper 대신 사서 저장)
+- [[library/notes/솔트룩스-이경일-온톨로지]] ← `솔트룩스 이경일 온톨로지.md`
+- [[library/notes/일기-2026-08-05-파크골프]] ← `8월 5일 수요일 다이어리, 파크골프.md` (`IMG_5433` assets 없음)
+- [[library/notes/일기-2026-08-06-숲채원-정상]] ← `습채원정상.md`
+- [[library/notes/전문-AI-뉴스레터-구독]] ← `전문 AI 뉴스레터 구독하기.md`
+- inbox 원본 → `_archive/` · `## 내 한 줄` (초안) — 편집장 감수 대기
+
+## [2026-08-06] note | 브레인 트리니티 도구 조목
+
+- [[library/notes/브레인-트리니티-LLM-wiki-RAG]]에 「도구 조목 (실제 활용용)」추가 — 의도·실행·현실·수집·회고별 + 오소풍 대응표
+
+## [2026-08-06] note | 브레인 트리니티 형광·대화·인사이트
+
+- [[library/notes/브레인-트리니티-형광-대화-인사이트]] — 스크립트 형광 추출 · 대화 핵심 · 사서 인사이트
+- 원 노트 [[library/notes/브레인-트리니티-LLM-wiki-RAG]]에 링크
+
+## [2026-08-06] conversation | AI 로그 세 줄 세이브
+
+- 합의: 긴 Cursor 세션 끝 **한 일 / 미결 / 다음** → conversations 또는 daily ([[AGENTS#AI-로그-세-줄-세이브]])
+- [[conversations/2026-08-06-brain-trinity-ai-log]] · DESIGN §4-1 · [[오소풍]] 반영
+
+## [2026-08-06] ops | 유튜브 공부 루프
+
+- 합의: 옵시디언 유튜브는 자막만 쌓지 않고 **오늘 Brain Trinity처럼 공부**
+- [[AGENTS#유튜브-공부-루프]] · [[오소풍]] · 기준 세션 [[conversations/2026-08-06-brain-trinity-ai-log]]
+
+## [2026-08-06] ops | 유튜브 — 요약 우선
+
+- 보완: 유튜브 공부 = **영상 요약 먼저** · 스크립트/자막 전문은 **별도 요청 시에만**
+- [[AGENTS#유튜브-공부-루프]] · [[오소풍]]
+
+## [2026-08-06] design | inbox ingest = 사서 접속 시점
+
+- 합의: inbox는 파일 유입 즉시가 아니라 **편집장이 사서에게 접속(대화 시작)한 때** 소화
+- [[AGENTS]] · [[DESIGN-v2]] · [[Home]] · inbox/README · [[오소풍]] 반영

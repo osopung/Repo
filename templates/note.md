@@ -25,3 +25,5 @@ media: []
 -
 
 ## 모순
+
+![[Build a Self-Driving Codebase.pdf]]

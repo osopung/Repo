@@ -3,13 +3,21 @@ title: "기록 — MOC"
 type: moc
 domain: life
 status: final
-updated: 2026-08-02
+updated: 2026-08-03
 media: []
 ---
 
 # 기록 (Map of Content)
 
 날것 → STT → 노트 → idea → 작품. 오소풍_wiki의 메인 루프.
+
+```mermaid
+flowchart LR
+  A[날것 · inbox] --> B[STT · Wispr]
+  B --> C[노트]
+  C --> D[idea]
+  D --> E[작품 · 에세이 · 캘리]
+```
 
 ## ideas (생각의 축)
 
@@ -36,14 +44,12 @@ media: []
 - [[art/drawing/하림에게-그림편지|하림에게 그림편지]]
 - [[art/_index|Art · 노션 시화 갤러리]]
 
+## 에세이 · 글
 
-
-## 에세이
-
-- [[essays/말이-기록이-되다|말이 기록이 되다]] (초고 · 감수 대기)
+- [[essays/말이-기록이-되다|말이 기록이 되다]] (final)
+- [[library/projects/슬기로운-은퇴생활|슬기로운 은퇴생활]] (책 원고)
 
 ## 허브
 
 - [[purpose]] · [[Home]] · [[map/index|index]]
 - 대화록: [[conversations/2026-08-02-record-moc-star5|2026-08-02 · 기록 MOC · ★5]]
-

@@ -4,6 +4,8 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .obsidian/graph.json
-
-# 대용량·임베드 원고 (볼트에는 둠 · Repo 비대 방지)
-assets/『슬기로운 은퇴생활』.md
+# Smart Composer — 키·채팅·벡터 DB (커밋 금지)
+.obsidian/plugins/obsidian-smart-composer/
+.smtcmp_json_db/
+.smtcmp_vector_db.tar.gz
+.tmp_*
