@@ -12,6 +12,8 @@
 
 ## 최근
 - [[오소풍]]
+- [[library/notes/일기-2026-08-08-헤르메스|일기 — 헤르메스와 하루를 탕진한 날]]
+- [[library/notes/헤르메스-inbox-연동-시험|헤르메스 — inbox 연동 시험]]
 - [[library/notes/브레인-트리니티-형광-대화-인사이트|브레인 트리니티 · 형광·대화·인사이트]]
 - [[library/notes/브레인-트리니티-LLM-wiki-RAG|브레인 트리니티 · LLM wiki와 RAG]]
 - [[library/notes/일기-2026-08-06-숲채원-정상|일기 — 숲채원 정상]]
