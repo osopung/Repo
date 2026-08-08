@@ -355,3 +355,11 @@ append-only. 과거 블록은 수정하지 않는다.
 
 - 합의: inbox는 파일 유입 즉시가 아니라 **편집장이 사서에게 접속(대화 시작)한 때** 소화
 - [[AGENTS]] · [[DESIGN-v2]] · [[Home]] · inbox/README · [[오소풍]] 반영
+
+## [2026-08-08] ingest | 헤르메스 inbox 2건 (사서 접속)
+
+- [[library/notes/일기-2026-08-08-헤르메스]] ← `2026-08-08-헤르메스와-하루를-탕진한-날.md`
+- [[library/notes/헤르메스-inbox-연동-시험]] ← `hermes-test-2026-08-08.md`
+- inbox 원본 → `_archive/` · `## 내 한 줄` (초안) — 편집장 감수 대기
+- 확인 사실: 헤르메스 inbox 작성·git push 성공 · Google Drive 인증은 미해결
+- [[오소풍]] 도구·사서 메모 보강
