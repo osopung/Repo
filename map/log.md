@@ -393,3 +393,8 @@ append-only. 과거 블록은 수정하지 않는다.
 - 아내 생일 앨범: 위키에 남기지 않음
 - 8/10 수업 작품: art/ 승격 아직 없음
 - [[conversations/2026-08-15-windows-cursor]] · [[map/daily/2026-08-15]]
+
+## [2026-08-15] conversation | 코덱스는 Git·inbox에서 뺌
+
+- 코덱스 산출물은 편집장이 사서에게 전함. git pull·push·inbox·로컬 복제 금지
+- [[conversations/2026-08-15-windows-cursor]] 「코덱스에게」복붙 · [[오소풍]] · [[AGENTS]]
