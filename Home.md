@@ -7,9 +7,9 @@
 
 > 매일 09:00 이후 사서와 처음 대화할 때 갱신 · 채팅 맨 앞에 당일 `map/daily/` 링크. 제안만 — 반영은 내가 한다.
 
-- **브레인 트리니티 한 줄 감수** — [[library/notes/브레인-트리니티-LLM-wiki-RAG]] 「기록=시간 여행」초안을 다듬고 `- [x] 감수`.
-- **숲채원·파크골프 한 줄** — [[library/notes/일기-2026-08-06-숲채원-정상]] · [[library/notes/일기-2026-08-05-파크골프]] 중 1건 감수.
-- **쥬디 다음 장면** — 장면 단위로 inbox에 붙여 오면 태도·심리 탐침으로 이어감.
+- **에이전트 시너지** — 별도 AI-HQ를 세우지 말고 `오소풍_wiki`를 유일한 사령탑으로 둘지 오늘 한 줄로 정하기
+- **일인소송** — 이의통지 **8/14 발송 확인**. 다음은 채무부존재확인 소장 초안. 잔금 최고 기한 **8/31**. [[library/projects/일인소송/_index|일인소송]]
+- **위약금 문장** — 3단 논리를 이후 서면(소장 등)에 넣을지. [[library/projects/일인소송/위약금-3단논리]]
 
 ## 오늘 / 이번 주
 
@@ -18,7 +18,7 @@
 - [[art/drawing/하림에게-그림편지|그림편지]] · [[essays/말이-기록이-되다|말이 기록이 되다]]
 - 기록 루프: [[library/notes/wispr-flow|Wispr]] · [[library/notes/기록강의-1-3|기록강의]] · [[art/_index|art·노션 갤러리]]
 - [[library/ideas (생각의 축)/기록하는-인간|기록하는 인간]] · [[library/ideas (생각의 축)/입구로서의-inbox|inbox]] · [[library/ideas (생각의 축)/몸과-말|몸과 말]]
-- MOC: [[map/moc/record|기록]] · ★5 [[conversations/2026-08-02-record-moc-star5|대화록]]
+- MOC: [[map/moc/record|기록]] · [[map/moc/약어|약어]] · ★5 [[map/moc/5스타|5스타]] · ★5 [[conversations/2026-08-02-record-moc-star5|대화록]]
 - 책 원고: [[library/projects/슬기로운-은퇴생활|슬기로운 은퇴생활]] _(달 초점 밖 · 프로젝트)_
 - inbox → **사서 접속 시** ingest · daily → 09:00 이후 첫 대화 · Git(`osopung/Repo`)은 이력 배경
 
@@ -42,4 +42,5 @@
 ## 미디어
 
 작품·시화 원본 → [노션 시화 갤러리](https://app.notion.com/p/osopung58/53279f80606d4f878ae6f9107c53d6c7) ([[art/_index|art]]).  
-작은 첨부 → `assets/`. 그 밖 대용량 → `오소풍-미디어-보관`.
+작은 첨부 → `assets/`. 원본 대용량 → `오소풍-미디어-보관`.  
+위키에 걸 미디어 → ★5 [[library/notes/오소풍-공유폴더|오소풍-공유폴더]] (`file/d/…/view`).

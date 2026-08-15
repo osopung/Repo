@@ -324,7 +324,7 @@ append-only. 과거 블록은 수정하지 않는다.
 - [[library/notes/솔트룩스-이경일-온톨로지]] ← `솔트룩스 이경일 온톨로지.md`
 - [[library/notes/일기-2026-08-05-파크골프]] ← `8월 5일 수요일 다이어리, 파크골프.md` (`IMG_5433` assets 없음)
 - [[library/notes/일기-2026-08-06-숲채원-정상]] ← `습채원정상.md`
-- [[library/notes/전문-AI-뉴스레터-구독]] ← `전문 AI 뉴스레터 구독하기.md`
+- [[AI-뉴스레터-구독-무엇을?]] ← `전문 AI 뉴스레터 구독하기.md`
 - inbox 원본 → `_archive/` · `## 내 한 줄` (초안) — 편집장 감수 대기
 
 ## [2026-08-06] note | 브레인 트리니티 도구 조목
@@ -356,10 +356,359 @@ append-only. 과거 블록은 수정하지 않는다.
 - 합의: inbox는 파일 유입 즉시가 아니라 **편집장이 사서에게 접속(대화 시작)한 때** 소화
 - [[AGENTS]] · [[DESIGN-v2]] · [[Home]] · inbox/README · [[오소풍]] 반영
 
+## [2026-08-06] design | 개념 쪼개기 — 사서 제안만
+
+- 합의: 엔티티/개념 다장 전개는 **필요할 듯할 때 사서 제안** · 자동 생성 금지 ([[AGENTS]] ingest 공통)
+
+## [2026-08-06] conversation | 온톨로지와 오소풍_wiki 마무리
+
+- [[library/notes/솔트룩스-이경일-온톨로지]] 형광·토론 핵심·인사이트
+- 합의: 기업/지식그래프 온톨로지 구축 안 함 · 문서 질서([[오소풍]]·purpose·ideas)로 충분
+- [[conversations/2026-08-06-ontology-wiki]]
+
+## [2026-08-07] daily | 헤르메스·아이폰
+
+- [[map/daily/2026-08-07]] — 오늘 초점: Hermes → Telegram → iPhone
+- inbox 유튜브 3 → notes (요약 stub) · [[library/notes/헤르메스-아이폰-설치]]
+
+## [2026-08-07] youtube | Hermes VPS 후보 3편 요약
+
+- 1 [[헤르메스 역대급 업데이트 4가지 ;Jay-Choi-의견수락-내시스템-도입]] · 2 [[헤르메스로 언제 어디서든 AI 비서 -코드깎는노인-유튜브]] · 3 [[헤르메스 — 노트북 꺼도 24시간 AI 팀-실밸개발자-유튜브]]
+- 공통: Hostinger(클라우드) · KVM2 · 메인 PC 비권장 · 아이폰은 텔레그램
+
+## [2026-08-07] decision | Hermes 2번 경로
+
+- 확정: Hostinger KVM2 **원클릭** + **Nexus AI** + **Telegram** → 아이폰
+- [[library/notes/헤르메스-아이폰-설치]] 체크리스트 1~8
+
+## [2026-08-07] ops | Hostinger 결제 완료
+
+- 편집장: Apple Pay · **2년** · 약 **$200** · KVM2
+- 다음: hPanel **Hermes Deploy** → Nexus → Telegram
+- [[library/notes/헤르메스-아이폰-설치]]
+
+## [2026-08-07] ops | Hermes 배포 실행
+
+- 편집장: 설정 폼에서 **「배포」** 클릭
+- 다음: 설치 완료 → Nexus 키 확인 → Telegram
+
+## [2026-08-07] ops | Hermes Telegram connected
+
+- Keys에 bot token · allowed user 설정 · Gateway restart
+- 상태: gateway **running** · telegram **connected**
+- 다음: 아이폰에서 봇 시험 메시지
+
+## [2026-08-08] ops | Hermes inbox Git 연결 (A안)
+
+- VPS clone: `/opt/data/osopung-wiki` · MCP inbox_fs · PAT(자격증명 store)
+- 다음: 텔레그램에서 inbox 쓰기 시험 · 맥 pull · (권장) PAT Revoke/재발급
+- [[library/notes/헤르메스-아이폰-설치]]
+
+## [2026-08-09] note | 헤르메스 핵심 · 지침 업그레이드
+
+- Drive Docs 2건 → [[헤르메스-에이전트-핵심정리-어디에쓰나-커스-역할분담]] (A4 요약)
+- 지침: [[inbox/헤르메스에게]] · [[library/notes/헤르메스-아이폰-설치]] (역할 분담·Drive OAuth 금지·inbox A안)
+- 사서: Gmail·Drive·Calendar 플러그인 연결 · Luna·Nexos 충전 반영
+
+## [2026-08-09] decision | Hermes push → 사서 pull·보고
+
+- 헤르메스 push 성공 알림 → 사서가 맥 `git pull` → 파일·커밋을 편집장에게 보고 → ingest
+- 편집장은 직접 pull 하지 않음 · [[AGENTS#Hermes--Git--사서]]
+
+## [2026-08-05] daily | 제안 3
+
+- [[map/daily/2026-08-05]] — 에세이 정식화 · 쥬디 다음 장면 · 일기 감수
+- inbox `쥬디 할머니.md` 빈 파일 — ingest 보류 유지
+
+## [2026-08-06] daily | 제안 3
+
+- [[map/daily/2026-08-06]] — 브레인 트리니티 감수 · 숲채원/파크골프 한 줄 · 쥬디 장면
+
+## [2026-08-06] ingest | YouTube 스크립트 · 일기 · 영상 요약
+
+- [[library/notes/브레인-트리니티-LLM-wiki-RAG]] ← `브레인-트리니티-LLM-wiki-스크립트.md` + `브레인 트리니티.md` — youtu.be/t4XEda3CB3Q 자막 전문(Web Clipper 대신 사서 저장)
+- [[library/notes/솔트룩스-이경일-온톨로지]] ← `솔트룩스 이경일 온톨로지.md`
+- [[library/notes/일기-2026-08-05-파크골프]] ← `8월 5일 수요일 다이어리, 파크골프.md` (`IMG_5433` assets 없음)
+- [[library/notes/일기-2026-08-06-숲채원-정상]] ← `습채원정상.md`
+- [[AI-뉴스레터-구독-무엇을?]] ← `전문 AI 뉴스레터 구독하기.md`
+- inbox 원본 → `_archive/` · `## 내 한 줄` (초안) — 편집장 감수 대기
+
+## [2026-08-06] note | 브레인 트리니티 도구 조목
+
+- [[library/notes/브레인-트리니티-LLM-wiki-RAG]]에 「도구 조목 (실제 활용용)」추가 — 의도·실행·현실·수집·회고별 + 오소풍 대응표
+
+## [2026-08-06] note | 브레인 트리니티 형광·대화·인사이트
+
+- [[library/notes/브레인-트리니티-형광-대화-인사이트]] — 스크립트 형광 추출 · 대화 핵심 · 사서 인사이트
+- 원 노트 [[library/notes/브레인-트리니티-LLM-wiki-RAG]]에 링크
+
+## [2026-08-06] conversation | AI 로그 세 줄 세이브
+
+- 합의: 긴 Cursor 세션 끝 **한 일 / 미결 / 다음** → conversations 또는 daily ([[AGENTS#AI-로그-세-줄-세이브]])
+- [[conversations/2026-08-06-brain-trinity-ai-log]] · DESIGN §4-1 · [[오소풍]] 반영
+
+## [2026-08-06] ops | 유튜브 공부 루프
+
+- 합의: 옵시디언 유튜브는 자막만 쌓지 않고 **오늘 Brain Trinity처럼 공부**
+- [[AGENTS#유튜브-공부-루프]] · [[오소풍]] · 기준 세션 [[conversations/2026-08-06-brain-trinity-ai-log]]
+
+## [2026-08-06] ops | 유튜브 — 요약 우선
+
+- 보완: 유튜브 공부 = **영상 요약 먼저** · 스크립트/자막 전문은 **별도 요청 시에만**
+- [[AGENTS#유튜브-공부-루프]] · [[오소풍]]
+
+## [2026-08-06] design | inbox ingest = 사서 접속 시점
+
+- 합의: inbox는 파일 유입 즉시가 아니라 **편집장이 사서에게 접속(대화 시작)한 때** 소화
+- [[AGENTS]] · [[DESIGN-v2]] · [[Home]] · inbox/README · [[오소풍]] 반영
+
+## [2026-08-06] design | 개념 쪼개기 — 사서 제안만
+
+- 합의: 엔티티/개념 다장 전개는 **필요할 듯할 때 사서 제안** · 자동 생성 금지 ([[AGENTS]] ingest 공통)
+
+## [2026-08-06] conversation | 온톨로지와 오소풍_wiki 마무리
+
+- [[library/notes/솔트룩스-이경일-온톨로지]] 형광·토론 핵심·인사이트
+- 합의: 기업/지식그래프 온톨로지 구축 안 함 · 문서 질서([[오소풍]]·purpose·ideas)로 충분
+- [[conversations/2026-08-06-ontology-wiki]]
+
+## [2026-08-07] daily | 헤르메스·아이폰
+
+- [[map/daily/2026-08-07]] — 오늘 초점: Hermes → Telegram → iPhone
+- inbox 유튜브 3 → notes (요약 stub) · [[library/notes/헤르메스-아이폰-설치]]
+
+## [2026-08-07] youtube | Hermes VPS 후보 3편 요약
+
+- 1 [[헤르메스 역대급 업데이트 4가지 ;Jay-Choi-의견수락-내시스템-도입]] · 2 [[헤르메스로 언제 어디서든 AI 비서 -코드깎는노인-유튜브]] · 3 [[헤르메스 — 노트북 꺼도 24시간 AI 팀-실밸개발자-유튜브]]
+- 공통: Hostinger(클라우드) · KVM2 · 메인 PC 비권장 · 아이폰은 텔레그램
+
+## [2026-08-07] decision | Hermes 2번 경로
+
+- 확정: Hostinger KVM2 **원클릭** + **Nexus AI** + **Telegram** → 아이폰
+- [[library/notes/헤르메스-아이폰-설치]] 체크리스트 1~8
+
+## [2026-08-07] ops | Hostinger 결제 완료
+
+- 편집장: Apple Pay · **2년** · 약 **$200** · KVM2
+- 다음: hPanel **Hermes Deploy** → Nexus → Telegram
+- [[library/notes/헤르메스-아이폰-설치]]
+
+## [2026-08-07] ops | Hermes 배포 실행
+
+- 편집장: 설정 폼에서 **「배포」** 클릭
+- 다음: 설치 완료 → Nexus 키 확인 → Telegram
+
+## [2026-08-07] ops | Hermes Telegram connected
+
+- Keys에 bot token · allowed user 설정 · Gateway restart
+- 상태: gateway **running** · telegram **connected**
+- 다음: 아이폰에서 봇 시험 메시지
+
+## [2026-08-08] ops | Hermes inbox Git 연결 (A안)
+
+- VPS clone: `/opt/data/osopung-wiki` · MCP inbox_fs · PAT(자격증명 store)
+- 다음: 텔레그램에서 inbox 쓰기 시험 · 맥 pull · (권장) PAT Revoke/재발급
+- [[library/notes/헤르메스-아이폰-설치]]
+
 ## [2026-08-08] ingest | 헤르메스 inbox 2건 (사서 접속)
 
 - [[library/notes/일기-2026-08-08-헤르메스]] ← `2026-08-08-헤르메스와-하루를-탕진한-날.md`
 - [[library/notes/헤르메스-inbox-연동-시험]] ← `hermes-test-2026-08-08.md`
 - inbox 원본 → `_archive/` · `## 내 한 줄` (초안) — 편집장 감수 대기
-- 확인 사실: 헤르메스 inbox 작성·git push 성공 · Google Drive 인증은 미해결
+- 확인 사실: 헤르메스 inbox 작성·git push 성공 · (당시) Google Drive 인증 미해결 → 이후 사서가 Drive/Calendar 연결
 - [[오소풍]] 도구·사서 메모 보강
+
+## [2026-08-09] note | 헤르메스 핵심 · 지침 업그레이드
+
+- Drive Docs 2건 → [[헤르메스-에이전트-핵심정리-어디에쓰나-커스-역할분담]] (A4 요약)
+- 지침: [[inbox/헤르메스에게]] · [[library/notes/헤르메스-아이폰-설치]] (역할 분담·Drive OAuth 금지·inbox A안)
+- 사서: Gmail·Drive·Calendar 플러그인 연결 · Luna·Nexos 충전 반영
+
+## [2026-08-09] decision | Hermes push → 사서 pull·보고
+
+- 헤르메스 push 성공 알림 → 사서가 맥 `git pull` → 파일·커밋을 편집장에게 보고 → ingest
+- 편집장은 직접 pull 하지 않음 · [[AGENTS#Hermes--Git--사서]]
+
+## [2026-08-09] ops | 사서 git pull 보고
+
+- HEAD `8bcfec3` · 신규 inbox: `2026-08-09-주일설교-골로새서-3장-15-17절.md` (감사·골로새서)
+- 원격에 이미 노트화된 일기·연동 시험도 수신
+
+## [2026-08-09] ingest | 주일설교 — 범사에 감사
+
+- [[library/notes/주일설교-2026-08-09-범사에-감사]] ← inbox `감사의 파도,2026-08-09-주일설교-…`
+- 원본 → [[_archive/2026-08-09-주일설교-골로새서-3장-15-17절|원본]] · `## 내 한 줄` 감수 대기
+- inbox 잔여: 유튜브 링크 stub 3건 · `헤르메스에게.md`(지침) — 보류
+
+## [2026-08-10] ops | 감수 전 노트 붉은 표시
+
+- CSS 스니펫 `.obsidian/snippets/unreviewed-red.css` 활성
+- `- [ ] 감수` 노트 25건에 `cssclasses: [draft]` · 템플릿·[[AGENTS]] 반영
+
+## [2026-08-10] decision | 감수→정식은 사서 자동
+
+- 편집장은 「정식 반영」 요청 안 함 · 접속·daily·lint 때 사서가 `[x] 감수` 훑어 정식화
+- [[AGENTS]] 반영
+
+## [2026-08-10] ops | 사서 git pull 보고
+
+- HEAD `b183f4d`
+- 신규 inbox: `2026-08-09-주일일기-예배와-가족의-저녁.md` · `2026-08-10-오늘의-계획-캘리그래피와-Zotero-연동.md`
+- ingest는 편집장 지시 대기
+
+## [2026-08-10] ops | 파일 탐색기 미감수 표시
+
+- `.obsidian/snippets/unreviewed-explorer.css` — `data-path`로 빨간 글씨+밑줄 (본문 아님)
+- 대상: `- [ ] 감수` + inbox 미소화 · Sync 후 스니펫 ON 필요
+
+## [2026-08-10] ingest | 일기·계획·조테로·유튜브 stub
+
+- [[library/notes/일기-2026-08-09-주일-예배와-가족]] · [[library/notes/계획-2026-08-10-캘리-Zotero]] (`final`·감수됨)
+- [[library/notes/조테로-옵시디언-세컨드브레인]] · [[library/notes/조테로-NotebookLM-LLM-wiki]] · 스크립트 → `_archive/`
+- [[library/notes/유튜브-스타십-완성-이후]] · [[library/notes/유튜브-일론-인류-5년]] (요약 stub)
+- inbox 잔여: `README` · `헤르메스에게` (지침)
+- 탐색기 CSS·[[map/감수-대기]] 갱신
+
+## [2026-08-10] note | ★5 오소풍-공유폴더
+
+- ★5 [[library/notes/오소풍-공유폴더]] — Drive 공유 미디어 · `file/d/…/view`
+- 폴더: https://drive.google.com/drive/folders/1EzSDfh9tCIalMZmbPcnwZtDCZJb1r9Ve
+- AGENTS · DESIGN · Home · [[오소풍]] · `inbox/헤르메스에게` 반영
+
+## [2026-08-10] ingest | 수묵 캘리 수업 3건
+
+- [[library/notes/수묵-캘리-수업-2026-08-10]] (draft · Drive `file/d` 링크)
+- [[library/notes/수묵-캘리-표현과-응용-원리]] · [[library/notes/캘리-먹의-건조와-번짐]] (`final` · inbox에서 `[x] 감수`)
+- 원본 → `_archive/2026-08-10-…`
+- 정식화: [[library/notes/브레인-트리니티-LLM-wiki-RAG]] `final`
+- inbox 잔여: `README` · `헤르메스에게`
+
+## [2026-08-10] lint | 감수 정식화 · 빨간 표시 갱신
+
+- 정식화 7건: `library/notes/질문-AI가-되묻게.md`, `library/notes/헤르메스로 언제 어디서든 AI 비서 -코드깎는노인-유튜브.md`, `library/notes/탐침-복붙-3종.md`, `library/notes/수묵-캘리-수업-2026-08-10.md`, `library/notes/주일설교-2026-08-09-범사에-감사.md`, `library/notes/오소풍-공유폴더.md`, `library/notes/AI-뉴스레터-구독-무엇을?.md`
+- [[map/감수-대기]] · unreviewed-explorer.css → **23건**
+
+## [2026-08-10] note | ★5 헤르메스 MOA · 5스타 MOC
+
+- ★5 [[library/notes/헤르메스-MOA]] — `/moa` · `/model … --provider moa`
+- 검색 허브 [[map/moc/5스타]] — Obsidian에서 `5스타`로 찾기
+
+## [2026-08-10] moc | 약어 용어집
+
+- [[map/moc/약어]] — `abbr` 호버 + 자주 쓰는 약어 표
+- Home · index · [[오소풍]] · [[map/moc/5스타]] 연결
+
+## [2026-08-10] ops | Abbreviations and Acronyms 플러그인
+
+- 설치: `.obsidian/plugins/abbreviations-mark` (v1.7.5)
+- 활성화: `community-plugins.json`
+- 전역 약어 + `globalFile`: [[map/moc/약어]]
+
+## [2026-08-10] rule | 약어 자동 추가
+
+- 편집장이 물은 약어 → 사서가 [[map/moc/약어]] · Extra · `abbreviations-mark` 전역에 추가 (AGENTS·오소풍 반영)
+
+## [2026-08-10] note | ★5 Claude 비용 Pro vs API
+
+- [[글쓰기-Claude-비용-Pro-vs-API]] · 검색 `5*` / `5스타`
+- [[map/moc/5스타]]에 `5*` 키워드 추가
+
+## [2026-08-10] note | Claude Pro≠API 한 줄 보강 (5*)
+
+- [[library/notes/글쓰기-Claude-비용-Pro-vs-API]] — Pro=웹이용권, API=전기 · final
+
+## [2026-08-10] inbox | Drive 조테로 문서 2건 추출
+
+- `inbox/2026-08-10-조테로-LLM위키-연동-이점.md`
+- `inbox/2026-08-10-조테로-연동-Cursor-vs-Claude-Code.md`
+
+## [2026-08-11] ingest | 조테로 inbox 2 + 스크립트 2
+
+- inbox → notes: [[library/notes/조테로-LLM위키-연동-이점]] · [[library/notes/조테로-연동-Cursor-vs-Claude-Code]]
+- 허브(설치·사용): [[library/notes/조테로-옵시디언-설치-사용법]]
+- 요약 갱신: [[library/notes/조테로-옵시디언-세컨드브레인]] · [[library/notes/조테로-NotebookLM-LLM-wiki]]
+- 원본: [[_archive/조테로-LLM위키-연동-이점]] · [[_archive/조테로-연동-Cursor-vs-Claude-Code]] · [[_archive/조테로스크립트-옵시디언-연동-설치-사용법-세컨드브레인]] · [[_archive/조테로-NotebookLM-LLM-wiki-스크립트]]
+- 감수-대기·unreviewed-explorer 재생성
+
+## [2026-08-12] project | 일인소송 폴더
+
+- [[library/projects/일인소송/_index]] — 왕길역 112-2301 해제·최고 · 1인소송 준비
+- [[library/projects/일인소송/대화록]] · [[library/projects/일인소송/중요쟁점]] (이행착수·위약금·최고 회신 등)
+- 반박 내용증명 초안 PDF/md · [[conversations/2026-08-12-일인소송-왕길역]]
+
+## [2026-08-12] evidence | 배달증명 → 일인소송
+
+- [[library/projects/일인소송/배달증명]] (등기 3112945006950 · 배달 2026-06-25 · 2쪽)
+- inbox/2026-08-12 링크 갱신 · assets/1인소송.pdf 제거
+
+## [2026-08-12] project | 내용증명 송달 주소 파일링
+
+- [[library/projects/일인소송/송달주소]] — 디케이퍼스트(이성헌·강남대로 358) · 하나자산신탁(민관식·테헤란로 127)
+- 반박초안·_index 링크 갱신
+
+## [2026-08-12] archive | 일인소송 대화록 raw
+
+- `library/projects/일인소송/대화록_raw_2026-08-12-왕길역.jsonl` — Cursor agent transcript `4c990def-6390-4bca-b0c6-bc5189449b1a` 원본 복사
+
+## [2026-08-15] ingest | 일인소송 inbox 3
+
+- [[library/projects/일인소송/위약금-3단논리]] · [[library/notes/대법원-잔금기일-해제권]] · [[library/projects/일인소송/디케이퍼스트-4가지-질문]] (스텁)
+- 원본 → `_archive/위약금 소송` · `_archive/DaebeobweonJaepanJuyopangyeol` · `_archive/Dikeipeoseuteuege4gajiJilmun`
+- inbox 잔여: `README` · `헤르메스에게`
+
+## [2026-08-15] lint | 감수 정식화 18건
+
+- `[x] 감수`인데 `status: draft`이던 노트 18건 → `final`
+- [[map/감수-대기]] · unreviewed-explorer.css 재생성
+
+## [2026-08-15] daily | 에이전트 시너지 · 일인소송 8/31
+
+- [[map/daily/2026-08-15]]
+- Codex AI-HQ 제안 검토 — 위키를 유일한 HQ로 유지하는 쪽을 권함
+
+## [2026-08-15] note | 코덱스에게 지침
+
+- [[inbox/코덱스에게]] — 집·구조·`osopung/Repo` 먼저, 그다음 역할. 주인→에이전트 말투
+- [[library/notes/코덱스-역할]] (draft)
+
+## [2026-08-15] note | 윈도우 Cursor에게
+
+- [[inbox/윈도우-Cursor에게]] — 같은 사서, 다른 책상. 맥과 동시 금지
+- [[library/notes/윈도우-Cursor]] (draft)
+
+## [2026-08-15] project | 이의통지 8/14 발송 반영
+
+- [[library/projects/일인소송/_index]] 「다음」·요약 갱신
+- [[library/projects/일인소송/중요쟁점]] §3 실행 한 줄
+
+## [2026-08-15] rule | 사건마스터 inbox → 교체
+
+- 편집장이 새 사건마스터를 inbox에 넣음 → 사서 접속 시 `사건마스터.md` **교체** (직전 본문 `_archive`)
+- 제2판 허브 금지 · `_index` 「다음」 맞춤 · AGENTS ingest 7
+
+## [2026-08-15] pull | Hermes inbox 5
+
+- `dbf0e33` inbox: record connected journey to wedding
+- ingest: [[library/notes/일기-2026-08-10-기록의-길]] · [[library/notes/일기-2026-08-15-예식장]] · [[library/notes/ChatGPT-대화를-Zotero로]] · [[library/notes/헤르메스-지시-워크플로우]] · [[library/notes/원본은-Zotero-액기스는-위키]]
+- inbox 잔여: `README` · `헤르메스에게` · `코덱스에게` · `윈도우-Cursor에게`
+
+## [2026-08-15] rule | 윈도우 Cursor = 헤르메스 레인
+
+- 사서 = 맥 Cursor 하나. 윈도우 Cursor는 `inbox/`만 (ingest·daily 금지)
+- [[inbox/윈도우-Cursor에게]] 전면 개정
+
+## [2026-08-15] ops | 코덱스 Git·inbox에서 자름
+
+- 윈도우 가지 `cursor/windows-cursor-ingest-7958`에서 확인 후 `main` 지침에 반영
+- 코덱스는 Repo를 열지 않음. 산출물은 편집장이 사서에게 전함
+
+## [2026-08-15] rule | 윈도우 Cursor 호칭 = 고문
+
+- 지침 [[inbox/고문에게]] · 노트 [[library/notes/고문]]
+- 옛 `윈도우-Cursor에게` 폐지. 사서는 맥, 고문은 inbox만
+
+## [2026-08-15] rule | 위키↔Repo 시차
+
+- 맞추는 때 셋: 사서 접속 pull · 헤르메스·고문 inbox 즉시 push · 세션 끝/`맞춰` commit·push
+- 하루를 넘겨 로컬에만 쌓지 말 것
+

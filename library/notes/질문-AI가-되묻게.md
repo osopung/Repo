@@ -2,12 +2,14 @@
 title: "질문 — AI가 나에게 되묻게"
 type: note
 domain: other
-status: draft
+status: final
 star: 5
 importance: 5
 keywords:
+  - 5스타
   - 질문
 tags:
+  - 5스타
   - 질문
 updated: 2026-08-03
 media: []
@@ -15,13 +17,13 @@ media: []
 
 # 질문 — AI가 나에게 되묻게 ★5
 
-> 키워드: **질문** · 주요 노트 (star 5)
+> 키워드: **5스타** · **질문** · 주요 노트 (star 5)
 
 ## 내 한 줄
 
-(초안) AI의 답이 아니라, AI의 질문이 나를 깊게 한다.
+AI의 답이 아니라, AI의 질문이 나를 깊게 한다.
 
-- [ ] 감수
+- [x] 감수
 
 ## 왜 중요한가
 

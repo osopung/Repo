@@ -4,7 +4,8 @@ type: conversation
 topics: [design, media, sync, life]
 date: 2026-08-01
 agents: [cursor]
-updated: 2026-08-01
+updated: 2026-08-10
+
 ---
 
 ## 맥락

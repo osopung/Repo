@@ -9,3 +9,6 @@
 .smtcmp_json_db/
 .smtcmp_vector_db.tar.gz
 .tmp_*
+
+# Cursor MCP (OC 키 포함 · 커밋 금지)
+.cursor/mcp.json

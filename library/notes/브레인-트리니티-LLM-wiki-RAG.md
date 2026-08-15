@@ -1,18 +1,18 @@
 ---
-title: "LLM wiki와 RAG — 브레인 트리니티 (브라이언)"
-type: note
+title: LLM wiki와 RAG — 브레인 트리니티 (브라이언)
 domain: other
-status: draft
+type: note
+status: final
 updated: 2026-08-06
 media: []
-source: "https://youtu.be/t4XEda3CB3Q"
+source: https://youtu.be/t4XEda3CB3Q
 ---
 
 ## 내 한 줄
 
 기록은 시간 여행이다 — 의도·실행·현실·회고를 쌓아 AI 멘토가 나다움을 돕게 한다.
 ==시간을 더 가치 있게 활용하기 위해 나는 기록을 한다. 왜냐면 인생은 시간으로 이루어져 있기 때문이다.
-- [ ] 감수
+- [x] 감수
 
 ## 영상
 

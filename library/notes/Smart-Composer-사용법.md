@@ -2,16 +2,16 @@
 title: "Smart Composer 사용법"
 type: note
 domain: other
-status: draft
+status: final
 updated: 2026-08-04
 media: []
 ---
 
 ## 내 한 줄
 
-(초안) Smart Composer는 지금 연 노트의 문장을 다듬는 도구, Cursor 사서는 위키 전체를 도는 도구.
+Smart Composer는 지금 연 노트의 문장을 다듬는 도구, Cursor 사서는 위키 전체를 도는 도구.
 
-- [ ] 감수
+- [x] 감수
 
 ## 여는 법
 

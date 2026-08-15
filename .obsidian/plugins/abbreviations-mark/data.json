@@ -1,0 +1,86 @@
+{
+  "metadataKeyword": "abbr",
+  "detectCJK": true,
+  "detectAffixes": false,
+  "affixes": "",
+  "markInSourceMode": true,
+  "globalAbbreviations": [
+    {
+      "key": "AI",
+      "title": "Artificial Intelligence — 인공지능"
+    },
+    {
+      "key": "API",
+      "title": "Application Programming Interface — 프로그램끼리 말하는 창구"
+    },
+    {
+      "key": "CLI",
+      "title": "Command Line Interface — 글자로 명령을 치는 화면"
+    },
+    {
+      "key": "CSS",
+      "title": "Cascading Style Sheets — 화면 모양을 정하는 스타일 언어"
+    },
+    {
+      "key": "GUI",
+      "title": "Graphical User Interface — 아이콘·창으로 쓰는 화면"
+    },
+    {
+      "key": "IDE",
+      "title": "Integrated Development Environment — 통합 개발 환경 (예: Cursor)"
+    },
+    {
+      "key": "LLM",
+      "title": "Large Language Model — 대규모 언어 모델"
+    },
+    {
+      "key": "MOA",
+      "title": "Mixture of Agents — 여러 모델 의견을 모아 종합"
+    },
+    {
+      "key": "MOC",
+      "title": "Map of Content — 주제별 목차·지도 노트"
+    },
+    {
+      "key": "PDF",
+      "title": "Portable Document Format — 문서 고정 형식"
+    },
+    {
+      "key": "PM",
+      "title": "Project Manager — 일정·티켓·대시보드를 굴리는 사람"
+    },
+    {
+      "key": "RAG",
+      "title": "Retrieval-Augmented Generation — 문서를 찾아 붙인 뒤 답하게 함"
+    },
+    {
+      "key": "STT",
+      "title": "Speech to Text — 말을 글로 바꿈"
+    },
+    {
+      "key": "URL",
+      "title": "Uniform Resource Locator — 웹 주소"
+    },
+    {
+      "key": "VPS",
+      "title": "Virtual Private Server — 클라우드에 빌린 작은 컴퓨터"
+    },
+    {
+      "key": "Git",
+      "title": "버전 관리 — 파일 이력·되돌리기"
+    },
+    {
+      "key": "ff-only",
+      "title": "fast-forward only — 이력이 갈라지지 않았을 때만 당김"
+    },
+    {
+      "key": "Zotero",
+      "title": "조테로 — 논문·도서·웹 출처를 모으는 문헌 관리 도구"
+    }
+  ],
+  "useMarkdownExtraSyntax": true,
+  "useExtraDefinitionDecorator": false,
+  "extraDefinitionDecoratorOpacity": 20,
+  "extraDefinitionDecoratorContent": "→ ${abbr}",
+  "globalFile": "map/moc/약어.md"
+}

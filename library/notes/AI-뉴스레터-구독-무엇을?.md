@@ -2,16 +2,16 @@
 title: "전문 AI 뉴스레터 구독"
 type: note
 domain: other
-status: draft
+status: final
 updated: 2026-08-06
 media: []
 ---
 
 ## 내 한 줄
 
-(초안) 지메일로 오는 AI 뉴스레터는 재료 입구 — 남길 것과 지울 것을 가려 받는다.
+지메일로 오는 AI 뉴스레터는 재료 입구 — 남길 것과 지울 것을 가려 받는다.
 
-- [ ] 감수
+- [x] 감수
 
 ## 본문
 

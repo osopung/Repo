@@ -1,0 +1,8 @@
+/* 보조: map/감수-대기.md 목록 링크도 붉게 (탐색기 본편은 unreviewed-explorer.css) */
+
+.unreviewed-list,
+.unreviewed-list li,
+.unreviewed-list a.internal-link,
+.unreviewed-list .internal-link {
+  color: #e03131 !important;
+}

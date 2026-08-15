@@ -1,0 +1,1 @@
+[Jay Choi | 인디해커 라이프](https://youtu.be/rIoJ-iHNIGY)

@@ -1,5 +1,9 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 19,
   "theme": "system",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "unreviewed-red",
+    "unreviewed-explorer"
+  ]
 }

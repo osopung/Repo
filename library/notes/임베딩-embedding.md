@@ -2,8 +2,8 @@
 title: "임베딩 Embedding"
 type: note
 domain: other
-status: draft
-updated: 2026-08-03
+status: final
+updated: 2026-08-10
 media:
   - "assets/IMG_8839-embedding.png"
 ---

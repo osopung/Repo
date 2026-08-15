@@ -2,16 +2,16 @@
 title: "헤르메스 — inbox 연동 시험"
 type: note
 domain: other
-status: draft
+status: final
 updated: 2026-08-08
 media: []
 ---
 
 ## 내 한 줄
 
-(초안) 헤르메스가 위키 문을 두드린 첫 기록 — 서버 clone의 inbox 작성·원격 push 확인.
+헤르메스가 위키 문을 두드린 첫 기록 — 서버 clone의 inbox 작성·원격 push 확인.
 
-- [ ] 감수
+- [x] 감수
 
 ## 본문
 
