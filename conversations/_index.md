@@ -5,6 +5,7 @@
 
 ## 최근
 
+- [[conversations/2026-08-15-windows-cursor|2026-08-15 · 윈도우 Cursor · 같은 사서, 다른 책상]]
 - [[conversations/2026-08-06-brain-trinity-ai-log|2026-08-06 · 브레인 트리니티 · AI 로그 최소안]]
 - ★5 [[conversations/2026-08-03-question-star5|2026-08-03 · 질문 · AI가 되묻게]]
 - ★5 [[conversations/2026-08-02-record-moc-star5|2026-08-02 · 기록 루프 · ideas · MOC]]
@@ -18,6 +19,7 @@
 ## 주제별
 
 ### design
+- [[conversations/2026-08-15-windows-cursor|윈도우 Cursor · HQ 신설 금지]]
 - [[conversations/2026-08-01-wiki-design-v2|위키 v2 설계 완성]]
 - [[conversations/2026-08-02-record-moc-star5|ideas 폴더명 · daily B · 노션 갤러리]]
 
@@ -27,6 +29,7 @@
 - [[conversations/2026-08-06-brain-trinity-ai-log|브레인 트리니티 · AI 로그]]
 
 ### ops
+- [[conversations/2026-08-15-windows-cursor|윈도우 Cursor · 맥과 동시 작업 금지]]
 - [[conversations/2026-08-02-record-moc-star5|daily 09:00 첫 대화 · git 폐기]]
 - [[conversations/2026-08-03-question-star5|AI가 되묻게 · 탐침 모드]]
 - [[conversations/2026-08-06-brain-trinity-ai-log|AI 로그 세 줄 세이브]]

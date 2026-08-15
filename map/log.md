@@ -363,3 +363,44 @@ append-only. 과거 블록은 수정하지 않는다.
 - inbox 원본 → `_archive/` · `## 내 한 줄` (초안) — 편집장 감수 대기
 - 확인 사실: 헤르메스 inbox 작성·git push 성공 · Google Drive 인증은 미해결
 - [[오소풍]] 도구·사서 메모 보강
+
+## [2026-08-15] ingest | inbox 11건 (윈도우 Cursor 접속)
+
+- [[library/notes/일기-2026-08-09-주일]] ← `2026-08-09-주일일기-예배와-가족의-저녁.md`
+- [[library/notes/주일설교-2026-08-09-골로새서]] ← `2026-08-09-주일설교-골로새서-3장-15-17절.md`
+- [[library/notes/일기-2026-08-10-기록의-길]] ← `2026-08-10-기록의-길을-바로잡은-날.md`
+- [[library/notes/일기-2026-08-10-계획]] ← `2026-08-10-오늘의-계획-캘리그래피와-Zotero-연동.md`
+- [[library/notes/수묵-캘리-수업-2026-08-10]] ← 통합기록 + 먹의 건조 + 표현 원리 (3건 병합)
+- [[library/notes/원본은-Zotero-액기스는-위키]] ← `원본은-Zotero에-액기스는-LLM-위키에.md`
+- [[library/notes/헤르메스-지시-워크플로우]] ← `Hermes에게-일을-잘-지시하는-워크플로우.md`
+- [[library/notes/ChatGPT-Zotero-보관]] ← `ChatGPT-대화를-Zotero로-보관하는-방법.md`
+- [[library/notes/일기-2026-08-15-예식장]] ← `2026-08-15-예식장으로-가는-길-연결을-생각하다.md`
+- inbox 원본 → `_archive/` · `## 내 한 줄` (초안) — 편집장 감수 대기
+- idea 후보(생성 안 함): 「원본은 Zotero, 액기스는 위키」
+
+## [2026-08-15] conversation | 윈도우 Cursor
+
+- 합의: 맥과 같은 사서 · 책상만 다름 · 동시 작업 금지 · HQ·코덱스 자리 침범 금지
+- [[conversations/2026-08-15-windows-cursor]] · [[오소풍]] 도구·타임라인·사서 메모 보강
+
+## [2026-08-15] daily | 제안 3
+
+- [[map/daily/2026-08-15]] — 오늘 일기 한 줄 · 수묵 캘리 8/10 · Zotero 원칙
+- 질문: 아내 생일 앨범 / 수업 작품 art 승격
+
+## [2026-08-15] conversation | 앨범·art 보류
+
+- 아내 생일 앨범: 위키에 남기지 않음
+- 8/10 수업 작품: art/ 승격 아직 없음
+- [[conversations/2026-08-15-windows-cursor]] · [[map/daily/2026-08-15]]
+
+## [2026-08-15] conversation | 코덱스는 Git·inbox에서 뺌
+
+- 코덱스 산출물은 편집장이 사서에게 전함. git pull·push·inbox·로컬 복제 금지
+- [[conversations/2026-08-15-windows-cursor]] 「코덱스에게」복붙 · [[오소풍]] · [[AGENTS]]
+
+## [2026-08-15] ops | 코덱스에게 문장 전달
+
+- 편집장이 「코덱스에게」문장을 코덱스에게 전함
+- Git·inbox·로컬 복제 금지 유지 · 산출물은 사서에게 편집장이 전함
+- [[conversations/2026-08-15-windows-cursor]] · [[오소풍]] · [[AGENTS]] · [[DESIGN-v2]]
