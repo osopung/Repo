@@ -5,6 +5,7 @@
 
 ## 최근
 
+- [[conversations/2026-08-15-hermes-git|2026-08-15 · 헤르메스 Git 복구]]
 - [[conversations/2026-08-12-일인소송-왕길역|2026-08-12 · 일인소송 · 왕길역 푸르지오]]
 - [[conversations/2026-08-06-ontology-wiki|2026-08-06 · 온톨로지와 오소풍_wiki]]
 - [[conversations/2026-08-06-brain-trinity-ai-log|2026-08-06 · 브레인 트리니티 · AI 로그 최소안]]
@@ -34,6 +35,7 @@
 - [[conversations/2026-08-03-question-star5|AI가 되묻게 · 탐침 모드]]
 - [[conversations/2026-08-06-brain-trinity-ai-log|AI 로그 세 줄 세이브]]
 - [[conversations/2026-08-06-ontology-wiki|지식그래프 구축 안 함]]
+- [[conversations/2026-08-15-hermes-git|헤르메스 Git 복구 · PAT Contents R/W]]
 
 ### life
 - [[conversations/2026-08-12-일인소송-왕길역|일인소송 · 왕길역]] · [[library/projects/일인소송/_index|프로젝트]]

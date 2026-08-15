@@ -712,3 +712,20 @@ append-only. 과거 블록은 수정하지 않는다.
 - 맞추는 때 셋: 사서 접속 pull · 헤르메스·고문 inbox 즉시 push · 세션 끝/`맞춰` commit·push
 - 하루를 넘겨 로컬에만 쌓지 말 것
 
+## [2026-08-15] rule | 고문 = 조언·조력 (헤르메스와 다름)
+
+- 고문은 나에게 조언하며 나를 돕는 자. 헤르메스(수집·inbox)와 같은 레인이 아님
+- 집에 넣을 글이 있을 때만 `inbox/`
+- 지침 [[inbox/고문에게]] · [[library/notes/고문]]
+
+## [2026-08-15] pull | Hermes 기록 테스트
+
+- `a781ed0` inbox: add Hermes record test
+- 수신: `inbox/헤르메스-기록-테스트.md` → `_archive/` (시험 · 노트 미생성)
+- PAT `hermes`에 Repo Contents R/W 부여 후 403 해제
+
+## [2026-08-15] conversation | 헤르메스 Git 복구
+
+- [[conversations/2026-08-15-hermes-git]]
+- 세 줄: 복구 완료 · PAT 재발급 미결 · inbox 재개
+
