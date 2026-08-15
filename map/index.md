@@ -12,6 +12,10 @@
 
 ## 최근
 - [[오소풍]]
+- [[conversations/2026-08-15-windows-cursor|2026-08-15 · 윈도우 Cursor]]
+- [[library/notes/일기-2026-08-15-예식장|일기 — 예식장으로 가는 길]]
+- [[library/notes/수묵-캘리-수업-2026-08-10|수묵 캘리 수업 2026-08-10]]
+- [[library/notes/원본은-Zotero-액기스는-위키|원본은 Zotero, 액기스는 위키]]
 - [[library/notes/일기-2026-08-08-헤르메스|일기 — 헤르메스와 하루를 탕진한 날]]
 - [[library/notes/헤르메스-inbox-연동-시험|헤르메스 — inbox 연동 시험]]
 - [[library/notes/브레인-트리니티-형광-대화-인사이트|브레인 트리니티 · 형광·대화·인사이트]]
