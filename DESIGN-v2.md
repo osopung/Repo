@@ -452,7 +452,7 @@ media: []          # 외부 대용량 경로 (있을 때만)
 | `~/오소풍_wiki` | 유일한 텍스트 위키 + Obsidian Sync |
 | `오소풍-미디어-보관` | 대용량 원본 |
 | `오소풍의 모든것` | v1 archive — 신규 작업 금지 |
-| Git (`오소풍_wiki`) | 이력·복구 (로컬 · 선택 시 private 원격). Sync와 병행 |
+| Git (`osopung/Repo`) | 이력·복구 (Sync와 병행). inbox push는 **헤르메스**. **코덱스는 Git·inbox 경로가 아님** — 산출물은 편집장이 사서에게 전한다 |
 
 ---
 

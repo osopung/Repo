@@ -398,3 +398,9 @@ append-only. 과거 블록은 수정하지 않는다.
 
 - 코덱스 산출물은 편집장이 사서에게 전함. git pull·push·inbox·로컬 복제 금지
 - [[conversations/2026-08-15-windows-cursor]] 「코덱스에게」복붙 · [[오소풍]] · [[AGENTS]]
+
+## [2026-08-15] ops | 코덱스에게 문장 전달
+
+- 편집장이 「코덱스에게」문장을 코덱스에게 전함
+- Git·inbox·로컬 복제 금지 유지 · 산출물은 사서에게 편집장이 전함
+- [[conversations/2026-08-15-windows-cursor]] · [[오소풍]] · [[AGENTS]] · [[DESIGN-v2]]
