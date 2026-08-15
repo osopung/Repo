@@ -387,3 +387,9 @@ append-only. 과거 블록은 수정하지 않는다.
 
 - [[map/daily/2026-08-15]] — 오늘 일기 한 줄 · 수묵 캘리 8/10 · Zotero 원칙
 - 질문: 아내 생일 앨범 / 수업 작품 art 승격
+
+## [2026-08-15] conversation | 앨범·art 보류
+
+- 아내 생일 앨범: 위키에 남기지 않음
+- 8/10 수업 작품: art/ 승격 아직 없음
+- [[conversations/2026-08-15-windows-cursor]] · [[map/daily/2026-08-15]]
