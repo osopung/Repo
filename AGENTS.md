@@ -218,3 +218,16 @@ conversation에는 `topics:`, `## 합의 · 결정` 필수.
 - `map/log.md` 과거 블록 수정
 
 수정 후에는 `map/log.md`에 `lint --fix` 결과를 **append**한다.
+
+## Cursor Cloud specific instructions
+
+이 저장소는 **실행 코드가 없는 순수 Obsidian 마크다운 볼트**다. 빌드 시스템·패키지 매니저·테스트·설정된 린터가 없다(찾지 말 것). "애플리케이션"은 이 볼트를 렌더링·편집하는 **Obsidian 데스크탑 앱**이고, `ingest`/`daily`/`lint`/`weekly` 같은 「명령」은 스크립트가 아니라 **사서(에이전트)가 마크다운에 수행하는 자연어 규약**이다.
+
+- **의존성/업데이트:** 설치할 의존성이 없다. 업데이트 스크립트는 사실상 no-op다. `node`(v22)는 있지만 필요 없다 — 커밋된 플러그인 `.obsidian/plugins/abbreviations-mark/main.js`는 **이미 빌드된 배포본**이다. `smart-composer` 플러그인은 `.gitignore` 처리되어 볼트에 없으므로 Obsidian에서 로드되지 않는다(정상).
+- **테스트/린트/빌드:** 자동화된 테스트·빌드·린트 명령이 **없다**. 검증은 마크다운을 직접 보거나 Obsidian으로 여는 것이다.
+- **볼트를 앱으로 확인하려면 (Obsidian, 필요할 때만):** 데스크탑이 `DISPLAY=:1`(XFCE)에 떠 있다. Obsidian은 기본 미설치이므로 필요 시 일회성으로 설치한다 — `obsidianmd/obsidian-releases`에서 데스크탑 `Obsidian-<ver>.AppImage`(amd64)를 받아 `--appimage-extract`로 풀고(FUSE 회피), `DISPLAY=:1 ./obsidian --no-sandbox`로 실행. 최신 GitHub *release*는 안드로이드 `.apk`만 담고 있으니 데스크탑 AppImage는 이전 태그(예: v1.13.7)에서 찾는다.
+  - 특정 볼트를 자동으로 열려면 실행 전에 `~/.config/obsidian/obsidian.json`에 `{"vaults":{"<id>":{"path":"/workspace","ts":<ms>,"open":true}}}`를 심는다.
+  - 커뮤니티 플러그인이 있어 첫 실행 때 **"Do you trust the author of this vault?"** 모달이 뜬다 — "Trust author and enable plugins"를 눌러야 `abbreviations-mark`가 켜진다.
+  - 스크린샷/녹화는 `ffmpeg -f x11grab -i :1`, 창 조작은 `xdotool`을 쓴다(`scrot`/`import`는 없음).
+- **미감수 표시:** 파일 탐색기에서 `inbox/`·미감수 파일이 **빨간 글씨+밑줄**로 보이면 `.obsidian/snippets/`의 `unreviewed-explorer` CSS 스니펫이 작동 중인 것이다(정상).
+- **주의:** `inbox/`는 편집장 전용 입력함이다. 테스트용 임시 노트를 만들었으면 커밋 전에 지운다. 실행 코드가 없으므로 클라우드 세션에서 시작할 상시 서비스는 없다.
