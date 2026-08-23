@@ -876,4 +876,9 @@ append-only. 과거 블록은 수정하지 않는다.
 - `library/notes/AI-뉴스레터-구독-무엇을?.md` → `AI-뉴스레터-구독-무엇을.md`
 - 윈도우 클론 checkout이 `|` `?` 에서 멈춤
 
+## [2026-08-23] note | 헤르메스 대시보드 주소
+
+- https://hermes-agent-noxp.srv1886227.hstgr.cloud
+- 윈도우 Desktop = Remote gateway. 비밀번호는 집에 안 넣음
+
 
