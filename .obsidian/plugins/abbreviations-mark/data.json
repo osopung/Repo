@@ -11,7 +11,7 @@
     },
     {
       "key": "API",
-      "title": "Application Programming Interface — 프로그램끼리 말하는 창구"
+      "title": "Application Programming Interface — 연결 통로(창구·콘센트)"
     },
     {
       "key": "CLI",
@@ -36,6 +36,10 @@
     {
       "key": "MOA",
       "title": "Mixture of Agents — 여러 모델 의견을 모아 종합"
+    },
+    {
+      "key": "MCP",
+      "title": "Model Context Protocol — 에이전트가 창구를 꽂는 플러그·표준 규약"
     },
     {
       "key": "MOC",
@@ -76,6 +80,14 @@
     {
       "key": "Zotero",
       "title": "조테로 — 논문·도서·웹 출처를 모으는 문헌 관리 도구"
+    },
+    {
+      "key": "팬픽",
+      "title": "fan fiction — 팬이 세계 안에 들어가 빈칸을 채우는 글쓰기"
+    },
+    {
+      "key": "프리퀄",
+      "title": "prequel — 본편보다 앞선 이야기"
     }
   ],
   "useMarkdownExtraSyntax": true,

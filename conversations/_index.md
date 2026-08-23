@@ -5,6 +5,7 @@
 
 ## 최근
 
+- [[conversations/2026-08-19-다독다독-접목|2026-08-19 · 다독다독 공부 · 접목 문답]]
 - [[conversations/2026-08-15-hermes-git|2026-08-15 · 헤르메스 Git 복구]]
 - [[conversations/2026-08-12-일인소송-왕길역|2026-08-12 · 일인소송 · 왕길역 푸르지오]]
 - [[conversations/2026-08-06-ontology-wiki|2026-08-06 · 온톨로지와 오소풍_wiki]]
@@ -36,6 +37,7 @@
 - [[conversations/2026-08-06-brain-trinity-ai-log|AI 로그 세 줄 세이브]]
 - [[conversations/2026-08-06-ontology-wiki|지식그래프 구축 안 함]]
 - [[conversations/2026-08-15-hermes-git|헤르메스 Git 복구 · PAT Contents R/W]]
+- [[conversations/2026-08-19-다독다독-접목|헤르메스 텔레그램 그룹 · NotebookLM]]
 
 ### life
 - [[conversations/2026-08-12-일인소송-왕길역|일인소송 · 왕길역]] · [[library/projects/일인소송/_index|프로젝트]]
@@ -43,6 +45,7 @@
 - [[conversations/2026-08-03-question-star5|질문 키워드 · ★5 노트]]
 - [[conversations/2026-08-06-brain-trinity-ai-log|Brain Trinity 루프 · 멘토]]
 - [[conversations/2026-08-06-ontology-wiki|온톨로지와 개인 위키]]
+- [[conversations/2026-08-19-다독다독-접목|다독다독 · 집의 폭]]
 
 ### media
 - [[conversations/2026-08-02-record-moc-star5|노션 시화 갤러리]] (design 대화에도 포함)

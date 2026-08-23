@@ -407,7 +407,7 @@ append-only. 과거 블록은 수정하지 않는다.
 ## [2026-08-09] note | 헤르메스 핵심 · 지침 업그레이드
 
 - Drive Docs 2건 → [[헤르메스-에이전트-핵심정리-어디에쓰나-커스-역할분담]] (A4 요약)
-- 지침: [[inbox/헤르메스에게]] · [[library/notes/헤르메스-아이폰-설치]] (역할 분담·Drive OAuth 금지·inbox A안)
+- 지침: [[헤르메스에게_8.17.수정]] · [[library/notes/헤르메스-아이폰-설치]] (역할 분담·Drive OAuth 금지·inbox A안)
 - 사서: Gmail·Drive·Calendar 플러그인 연결 · Luna·Nexos 충전 반영
 
 ## [2026-08-09] decision | Hermes push → 사서 pull·보고
@@ -521,7 +521,7 @@ append-only. 과거 블록은 수정하지 않는다.
 ## [2026-08-09] note | 헤르메스 핵심 · 지침 업그레이드
 
 - Drive Docs 2건 → [[헤르메스-에이전트-핵심정리-어디에쓰나-커스-역할분담]] (A4 요약)
-- 지침: [[inbox/헤르메스에게]] · [[library/notes/헤르메스-아이폰-설치]] (역할 분담·Drive OAuth 금지·inbox A안)
+- 지침: [[헤르메스에게_8.17.수정]] · [[library/notes/헤르메스-아이폰-설치]] (역할 분담·Drive OAuth 금지·inbox A안)
 - 사서: Gmail·Drive·Calendar 플러그인 연결 · Luna·Nexos 충전 반영
 
 ## [2026-08-09] decision | Hermes push → 사서 pull·보고
@@ -728,4 +728,152 @@ append-only. 과거 블록은 수정하지 않는다.
 
 - [[conversations/2026-08-15-hermes-git]]
 - 세 줄: 복구 완료 · PAT 재발급 미결 · inbox 재개
+
+## [2026-08-17] daily | 사서 제안
+
+- 헤르메스 Git 인증 재실패 · 16일 일기 VPS 로컬만 (`f67e5ca`)
+- 일인소송 8/31 · PAT Regenerate 후보
+
+## [2026-08-17] pull | 일기 기억과 연결
+
+- `0c91519` inbox: add 2026-08-16 memory diary
+- ingest: [[library/notes/일기-2026-08-16-기억과-연결]] · 원본 `_archive/`
+- 원인: 헤르메스가 `/opt/data/Repo`에 씀. 집은 `/opt/data/osopung-wiki`
+
+## [2026-08-18] pull | 오늘 대화에서 건진 한 줄들
+
+- `9dbe292` inbox: collect memorable lines from today
+- ingest: [[library/notes/오늘-대화에서-건진-한-줄들]] · 원본 `_archive/`
+- 근본: 서버 집은 **`/opt/data/Repo`**. `safe.directory` + 로컬 credential.helper. 사서가 `osopung-wiki`에 열쇠를 둔 것이 착각.
+
+## [2026-08-18] pull | 오늘의 대화 세 문장
+
+- `c3e90a5` inbox: summarize today conversations in three sentences
+- ingest: [[library/notes/오늘의-대화-세-문장]] · 원본 `_archive/`
+- 헤르메스 본체가 `/opt/data/Repo`에서 push 성공 (열쇠 파일 소유를 저장소와 맞춤)
+
+## [2026-08-18] ops | 헤르메스 git 인증 통과
+
+- 실제 오류: `could not read Username` — 헤르메스 프로세스는 root helper를 안 씀
+- 해법: `/opt/data/Repo` origin URL에 `x-access-token` 포함. 텔레그램 **푸시 성공** 확인
+- GitHub main은 새 커밋 없음 (이미 보낸 것을 다시 민 것으로 보임 · HEAD `c3e90a5`)
+
+## [2026-08-18] pull | 오늘 대화하며 느낀 것
+
+- `a9e14a2` inbox: record reflection on today conversations
+- ingest: [[library/notes/오늘-대화하며-느낀-것]] · 원본 `_archive/`
+
+## [2026-08-19] ingest | 다독다독 유튜브 공부
+
+- 원본: [[_archive/다독다독]] · 스크립트: [[_archive/다독다독-슈퍼휴먼-슈퍼워크-스크립트]]
+- 노트: [[library/notes/다독다독-슈퍼휴먼-슈퍼워크]] (한 줄 초안)
+- 영상: https://youtu.be/8p3bqzysZf0
+
+## [2026-08-19] daily | 사서 제안
+
+- 다독다독 한 줄 감수 · 일인소송 8/31 · Git 1앞·1뒤(치악산 일기)
+
+## [2026-08-19] conversation | 다독다독 접목 문답
+
+- [[conversations/2026-08-19-다독다독-접목]]
+- 관련 구절에 링크: [[library/notes/다독다독-슈퍼휴먼-슈퍼워크]] · [[library/notes/헤르메스-아이폰-설치]] · [[library/notes/조테로-NotebookLM-LLM-wiki]] · [[오소풍]]
+
+## [2026-08-21] daily | 사서 제안
+
+- 일인소송 8/31(10일) · 조테로 사서 로그인 없음 · Git 어긋남
+
+## [2026-08-21] ops | Zotero MCP
+
+- `~/.cursor/mcp.json`에 `zotero` (`ZOTERO_LOCAL=true`)
+- 조테로 로컬 API 켬. 앱이 켜져 있어야 사서가 서재를 봄
+
+## [2026-08-21] note | 슈퍼휴먼 슈퍼워크 밑줄 액기스
+
+- [[library/notes/1부-1장-앞으로-5년-AI가-만들어갈-세상-밑줄]] — 노랑·빨강·파랑 (스캔본 OCR 초안)
+
+## [2026-08-21] note | ★5 연결 통로 — API와 MCP
+
+- ★5 [[library/notes/연결-통로-API-MCP]] — 통로=API, 플러그=MCP. 콘센트 없으면 예매 불가
+- [[map/moc/약어]] · 플러그인에 MCP 추가
+
+## [2026-08-22] note | 1.2장 챗봇에서 에이전트로 밑줄
+
+- [[library/notes/1부-1.2-챗봇에서-에이전트로]] — 빨강 뼈대 · 초록 개념 · 노랑 부연
+
+## [2026-08-22] note | 3~13장 읽을 자리 발췌
+
+- [[library/notes/3-13장-읽을-자리]] — 조테로 3=에이전틱인터넷 · 4=휴머노이드 · 5~13 장별 PDF
+
+## [2026-08-22] ★5 | 팬픽 — 빈칸을 채우는 글쓰기
+
+- ★5 [[library/notes/팬픽-빈칸을-채우는-글쓰기]] — 편집장 5* · [[map/moc/5스타]]
+
+## [2026-08-22] 규칙 | 맥학은 사서가 살린다
+
+- [[오소풍]] · [[AGENTS]] · [[map/moc/약어]] — 빈칸은 편집장, 세계는 사서
+
+## [2026-08-22] 정정 | 맥학 → 맥락
+
+- 사서 오독. 말은 **맥락**. 약어「맥학」삭제. [[오소풍]] · [[AGENTS]]
+
+## [2026-08-22] ★5 | 글쓰기 놀이 — 장과 장부
+
+- ★5 [[library/notes/글쓰기-놀이-장과-장부]] — 편집장 5* · 장=방 · 인물=장부
+
+## [2026-08-22] note | 6장 밑줄
+
+- [[library/notes/6장-슈퍼휴먼이-할-수-있는-것]] — 빨강 맥락·장부·감독 · 조테로 2BHSUNC9
+
+## [2026-08-22] project | 소풍헌 홀로 1년 자료 수집
+
+- [[library/projects/소풍헌-홀로-1년]] — 위키·드라이브·유튜브 오늘도소풍오소풍
+
+## [2026-08-22] project | 밴드 딱 1년만 혼자 살아보기
+
+- [딱 1년만 혼자 살아보기](https://www.band.us/page/95693805) 공개 45편을 [[library/projects/소풍헌-홀로-1년]]에 날짜·한 줄로. 2024-07-29~09-04 둔내 현장. 사진첩은 로그인 필요
+
+## [2026-08-22] project | 장부 — 멘토 소로우
+
+- [[library/projects/소풍헌-홀로-1년]] 장부 첫 칸. 『월든』. 편집장 문장: 진실을 검증하려는 고독. 초고 없음
+
+## [2026-08-22] project | 홀로 1년 뼈대 (대화체)
+
+- 인물: 오마이달링 · 이고수 · 오마이딸 · 오마이싼 · 소로우
+- 목표: 온몸으로 살아있음 · 액기스만 대면. 방 12 · 초고 없음
+
+## [2026-08-22] project | 이고수 = 밴드 8/27 벗
+
+- 편집장 확인. [[library/projects/소풍헌-홀로-1년]] 장부·8번 방
+
+## [2026-08-22] essay | 1. 문지방 초안
+
+- [[essays/소풍헌-홀로-1년/01-문지방]] — 오마이달링. 왜 혼자 1년인가. 감수 전
+
+## [2026-08-22] project | 장부 오소풍·오마이달링
+
+- 오소풍 칸 → [[오소풍]] 참조. 오마이달링 칸 편집장 문장으로 채움. 문지방은 장부와 어긋날 수 있음(전화)
+
+## [2026-08-23] project | 홀로 1년 화면 나눔
+
+- 작업: [[library/projects/소풍헌-홀로-1년]] (장부·방)
+- 모은 것: [[library/projects/소풍헌-홀로-1년-자료]]
+
+## [2026-08-23] daily | 장부 · 8/31 · 문지방
+
+- Home「사서 제안」· [[map/daily/2026-08-23]]
+
+## [2026-08-23] project | 홀로 1년 화면 다시 정리
+
+- 긴 경로 링크·표 제거. 작은 글씨 겹침 줄임
+
+## [2026-08-23] note | 고문 ≠ 클라우드 에이전트
+
+- [[inbox/고문에게]] — 윈도우 로컬만 고문. Linux 원격은 아니라고 밝히고 멈춤
+
+## [2026-08-23] ops | 윈도우 금지 파일명
+
+- `_archive/Jay Choi | 인디해커 라이프.md` → `Jay Choi 인디해커 라이프.md`
+- `library/notes/AI-뉴스레터-구독-무엇을?.md` → `AI-뉴스레터-구독-무엇을.md`
+- 윈도우 클론 checkout이 `|` `?` 에서 멈춤
+
 

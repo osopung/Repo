@@ -11,9 +11,9 @@ media: []
 
 ## 내 한 줄
 
-(초안) 원본은 Zotero에 보관하고, 필요한 작업을 한 뒤 생각의 액기스만 LLM 위키에 넣는다.
+원본은 Zotero에 보관하고, 필요한 작업을 한 뒤 생각의 액기스만 LLM 위키에 넣는다.
 
-- [ ] 감수
+- [x] 감수
 
 ## 기록 원칙
 
@@ -40,9 +40,12 @@ Zotero에서 필요한 작업을 한다.
 
 > **원본은 Zotero에 보관한다.**  
 > **Zotero에서 읽고 고르고 생각한다.**  
+> **책·자료에 물을 때는 NotebookLM에 첨부 파일을 넣는다.** ([[library/notes/조테로-NotebookLM-LLM-wiki#조테로-책을-NotebookLM에]])  
 > **추출한 액기스만 LLM 위키 inbox에 넣는다.**
 
 이 원칙은 원본을 안전하게 보존하면서도, 위키가 자료의 창고가 아니라 오소풍의 생각과 창작을 위한 공간으로 유지되게 한다.
+
+문의·답: [[conversations/2026-08-19-다독다독-접목#Zotero를-NotebookLM에]]
 
 ## 연결
 
@@ -51,3 +54,5 @@ Zotero에서 필요한 작업을 한다.
 - [[library/notes/조테로-LLM위키-연동-이점]]
 - [[library/ideas (생각의 축)/입구로서의-inbox|입구로서의 inbox]]
 - [[오소풍]]
+- [[library/notes/조테로-NotebookLM-LLM-wiki]]
+- [[conversations/2026-08-19-다독다독-접목]]
