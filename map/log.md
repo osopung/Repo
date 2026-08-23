@@ -712,3 +712,23 @@ append-only. 과거 블록은 수정하지 않는다.
 - 맞추는 때 셋: 사서 접속 pull · 헤르메스·고문 inbox 즉시 push · 세션 끝/`맞춰` commit·push
 - 하루를 넘겨 로컬에만 쌓지 말 것
 
+## [2026-08-23] ingest | inbox 일기 6건
+
+- [[library/notes/일기-2026-08-16-기억과-연결]]
+- [[library/notes/일기-2026-08-17-대화-세-문장]]
+- [[library/notes/일기-2026-08-17-건진-한-줄]]
+- [[library/notes/일기-2026-08-18-치악산-민정]]
+- [[library/notes/헤르메스-오늘-대화하며-느낀-것]]
+- [[library/notes/헤르메스-기록-테스트]]
+- inbox 잔여: `README` · `헤르메스에게` · `고문에게` · `코덱스에게`
+
+## [2026-08-23] daily | 헤르메스 Desktop · 일인소송 8/31 · 일기 감수
+
+- Home「사서 제안」갱신 · [[map/daily/2026-08-23]]
+- 제안만 — 자동 반영 없음
+
+## [2026-08-23] ops | 헤르메스 Desktop 설치
+
+- Cursor 클라우드 리눅스 데스크탑에 `install.sh --include-desktop`
+- 노트 [[library/notes/헤르메스-데스크탑-설치]] · 본체는 VPS 유지
+
