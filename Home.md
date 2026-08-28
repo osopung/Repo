@@ -7,9 +7,9 @@
 
 > 매일 09:00 이후 사서와 처음 대화할 때 갱신 · 채팅 맨 앞에 당일 `map/daily/` 링크. 제안만 — 반영은 내가 한다.
 
-- **홀로 1년 장부** — 이고수·오마이딸·오마이싼 칸. [[library/projects/소풍헌-홀로-1년]]
-- **일인소송** — 잔금 최고 기한 **8/31** (8일). 소장 초안이 다음. [[library/projects/일인소송/_index|일인소송]]
-- **문지방** — 장부는 카톡인데 초안은 전화. 다시 열면 맞춤. [[essays/소풍헌-홀로-1년/01-문지방]]
+- **바이브 코딩** — 축 한 줄 감수. [[library/ideas (생각의 축)/바이브-코딩]]
+- **헤르메스 인사이트** — 역할 나눔이 집과 맞는지 한 줄. [[library/notes/헤르메스-영상에서-배울-인사이트]]
+- **NotebookLM 에세이** — 한 줄 감수. [[essays/notebookLM/소풍헌의-고독과-기록]]
 
 ## 오늘 / 이번 주
 
@@ -17,7 +17,7 @@
 - **주간:** [[map/weekly/2026-W32|weekly W32]] · [[map/daily/2026-08-03|daily 8/3]]
 - [[art/drawing/하림에게-그림편지|그림편지]] · [[essays/말이-기록이-되다|말이 기록이 되다]]
 - 기록 루프: [[library/notes/wispr-flow|Wispr]] · [[library/notes/기록강의-1-3|기록강의]] · [[art/_index|art·노션 갤러리]]
-- [[library/ideas (생각의 축)/기록하는-인간|기록하는 인간]] · [[library/ideas (생각의 축)/입구로서의-inbox|inbox]] · [[library/ideas (생각의 축)/몸과-말|몸과 말]]
+- [[library/ideas (생각의 축)/기록하는-인간|기록하는 인간]] · [[library/ideas (생각의 축)/입구로서의-inbox|inbox]] · [[library/ideas (생각의 축)/몸과-말|몸과 말]] · [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 - MOC: [[map/moc/record|기록]] · [[map/moc/약어|약어]] · ★5 [[map/moc/5스타|5스타]] · ★5 [[conversations/2026-08-02-record-moc-star5|대화록]]
 - 책 원고: [[library/projects/슬기로운-은퇴생활|슬기로운 은퇴생활]] _(달 초점 밖 · 프로젝트)_
 - inbox → **사서 접속 시** ingest · daily → 09:00 이후 첫 대화 · Git(`osopung/Repo`)은 이력 배경

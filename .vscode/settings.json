@@ -1,0 +1,6 @@
+{
+  "[markdown]": {
+    "editor.inlayHints.enabled": "off",
+    "editor.stickyScroll.enabled": false
+  }
+}

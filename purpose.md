@@ -31,4 +31,5 @@ _(weekly마다 손본다. 큰 고침은 편집장 감수.)_
 - [[library/ideas (생각의 축)/기록하는-인간|기록하는 인간]]
 - [[library/ideas (생각의 축)/입구로서의-inbox|입구로서의 inbox]]
 - [[library/ideas (생각의 축)/몸과-말|몸과 말]]
+- [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 

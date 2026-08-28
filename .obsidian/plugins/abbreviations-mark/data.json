@@ -6,6 +6,10 @@
   "markInSourceMode": true,
   "globalAbbreviations": [
     {
+      "key": "ADE",
+      "title": "Agent Development Environment — 에이전트가 중심이 되는 작업 환경"
+    },
+    {
       "key": "AI",
       "title": "Artificial Intelligence — 인공지능"
     },
@@ -44,6 +48,10 @@
     {
       "key": "MOC",
       "title": "Map of Content — 주제별 목차·지도 노트"
+    },
+    {
+      "key": "Orca",
+      "title": "Orca — 여러 하네스를 한곳에 두고 조율하는 ADE. 새 에이전트가 아님"
     },
     {
       "key": "PDF",
@@ -88,6 +96,14 @@
     {
       "key": "프리퀄",
       "title": "prequel — 본편보다 앞선 이야기"
+    },
+    {
+      "key": "바이브 코딩",
+      "title": "vibe coding — 목적·구조를 정하고 AI 구현을 지휘"
+    },
+    {
+      "key": "하네스",
+      "title": "harness — 에이전트의 책상. 도구·파일·세션 (Claude Code·Codex)"
     }
   ],
   "useMarkdownExtraSyntax": true,

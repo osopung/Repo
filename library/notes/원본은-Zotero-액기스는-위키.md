@@ -2,7 +2,7 @@
 title: "원본은 Zotero에, 액기스는 LLM 위키에"
 type: note
 domain: other
-status: draft
+status: final
 updated: 2026-08-10
 media: []
 ---
