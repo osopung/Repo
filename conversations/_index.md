@@ -5,6 +5,8 @@
 
 ## 최근
 
+- [[conversations/2026-09-02-drive-스트림|2026-09-02 · Drive 스트림 · 맞춰]]
+- [[conversations/2026-08-28-공장-역할|2026-08-28 · 공장 레포 · 역할 분담]]
 - [[conversations/2026-08-19-다독다독-접목|2026-08-19 · 다독다독 공부 · 접목 문답]]
 - [[conversations/2026-08-15-hermes-git|2026-08-15 · 헤르메스 Git 복구]]
 - [[conversations/2026-08-12-일인소송-왕길역|2026-08-12 · 일인소송 · 왕길역 푸르지오]]
@@ -37,6 +39,8 @@
 - [[conversations/2026-08-06-brain-trinity-ai-log|AI 로그 세 줄 세이브]]
 - [[conversations/2026-08-06-ontology-wiki|지식그래프 구축 안 함]]
 - [[conversations/2026-08-15-hermes-git|헤르메스 Git 복구 · PAT Contents R/W]]
+- [[conversations/2026-08-28-공장-역할|공장 레포 · 고문 위키전담 · Cursor Cloud]]
+- [[conversations/2026-09-02-drive-스트림|Drive 스트림 · 맞춰는 확인용]]
 - [[conversations/2026-08-19-다독다독-접목|헤르메스 텔레그램 그룹 · NotebookLM]]
 
 ### life
