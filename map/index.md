@@ -12,8 +12,21 @@
 - [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 
 ## 최근
+- [[library/projects/2026-그대의-생일을-기념하며|2026, 그대의 생일을 기념하며]]
+- [[map/daily/2026-09-01|daily 9/1]]
+- [[map/추천-폴더구조|맥 소풍 · Drive 폴더 구조]]
+- [[map/monthly/2026-09|monthly 2026-09 계획]]
+- [[map/monthly/2026-08|monthly 2026-08]]
+- [[map/weekly/2026-08-W4|weekly 8/24–30]]
+- [[library/notes/주일설교-2026-08-30-믿음의-동역자|주일설교 8/30 믿음의 동역자]]
+- ★5 [[library/notes/스킬-먼저-Cron|스킬 먼저, 그다음 Cron]]
+- [[library/notes/사서-스킬-ingest|사서 스킬 — ingest]]
+- [[library/notes/AI-직원을-만드는-핵심-인사이트|AI 직원]] · [[library/notes/슈퍼-휴먼이-하는-일|슈퍼 휴먼]] · [[library/notes/코덱스-활용의-핵심-인사이트|코덱스 활용]]
+- [[conversations/2026-08-28-공장-역할|공장 역할 8/28]] · [osopung/Factory](https://github.com/osopung/Factory)
+- [[library/projects/건강한-생활-루틴|건강한 생활 루틴]]
+- [[map/daily/2026-08-28|daily 8/28]]
 - [[library/notes/Orca-공장에만|Orca — 공장에만]]
-- ★5 [[library/notes/역할-병렬-결정|역할 · 병렬 · 결정]]
+- ★5 [[역할-병렬-결정-Orca|역할 · 병렬 · 결정]]
 - [[library/notes/후츠릿-Orca-교차검증-시스템|후츠릿 · Orca 교차검증]]
 - [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 - [[essays/notebookLM/소풍헌의-고독과-기록|NotebookLM · 소풍헌의 고독과 기록]]

@@ -1155,4 +1155,9 @@ append-only. 과거 블록은 수정하지 않는다.
 
 - 맥 스트림 · 맞춰는 확인용. [[conversations/2026-09-02-drive-스트림]]
 
+## [2026-09-02] project | 아내 생일 앨범
+
+- PDF `2026, 그대의 생일을 기념하며` → `오소풍-미디어-보관` `1pC8yWsdfO1YOl_xWLdVTxYIyFg3qJprk`
+- [[library/projects/2026-그대의-생일을-기념하며]]
+
 
