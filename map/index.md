@@ -12,6 +12,8 @@
 - [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 
 ## 최근
+- [[library/notes/AI-에이전트-프롬프트-핵심-인사이트|AI 에이전트와 프롬프트]]
+- [[library/notes/프롬프트|프롬프트]]
 - [[map/daily/2026-09-03|daily 9/3]]
 - [[library/notes/추억을-소장하는-일|추억을 소장하는 일]]
 - [[library/projects/2026-그대의-생일을-기념하며|2026, 그대의 생일을 기념하며]]
