@@ -128,6 +128,22 @@
     {
       "key": "도메인 지식",
       "title": "domain knowledge — 그 일·그 분야만의 앎. 범용 AI 지식이 아님"
+    },
+    {
+      "key": "학습루프",
+      "title": "시킨 방식을 /learn으로 스킬에 남김. 크론잡과 한 세트"
+    },
+    {
+      "key": "크론잡",
+      "title": "Cron — 그 스킬을 시각에 맞춰 다시 실행. 파일 복제 아님"
+    },
+    {
+      "key": "세션 샌드",
+      "title": "session send — 에이전트끼리 일을 넘김. 집은 보이는 넘김"
+    },
+    {
+      "key": "보이는 넘김",
+      "title": "누구에게·무엇을·어디에 두었나를 남김. 숨은 위임 아님"
     }
   ],
   "useMarkdownExtraSyntax": true,
