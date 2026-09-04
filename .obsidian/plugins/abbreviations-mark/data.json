@@ -116,6 +116,10 @@
     {
       "key": "프로필 분기",
       "title": "헤르메스 직원만들기 — 본체 복제가 아니라 고유 아이디 폴더"
+    },
+    {
+      "key": "코덱스 토큰",
+      "title": "헤르메스가 챗GPT Plus/Pro로 머리 전기를 씀. 호스팅어 아이디 분리가 아님"
     }
   ],
   "useMarkdownExtraSyntax": true,

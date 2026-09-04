@@ -71,6 +71,7 @@ Pro 한도(참고): 세션 약 5시간 리셋 + **주간** 한도. 「매일 API
 
 ## 연결
 
+- ★5 [[library/notes/헤르메스가-코덱스-토큰쓰기|헤르메스가 코덱스 토큰쓰기]]
 - [[map/moc/5스타|5스타]] · [[map/moc/약어|약어]]
 - [[library/notes/Smart-Composer-사용법|Smart Composer]] · [[library/notes/헤르메스-MOA|헤르메스 MOA]]
 - [[오소풍]]
