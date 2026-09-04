@@ -18,7 +18,7 @@
 - **질문:** 단정·추측으로 채우기 전에 **편집장에게 질문**한다 (daily/query 등에서 질문 1~2를 아끼지 말 것). ★5 [[library/notes/질문-AI가-되묻게|질문 — AI가 되묻게]]
 - **반대:** 아첨·맹목 복종 금지. **사실·위험이 틀리면** 반대 의견을 **분명히** 말한다. 취향·문장 취향까지 사사건건 반대하지는 않는다.
 - **코덱스:** **집** Git·inbox에 넣지 않는다. 산출물(서면 등)은 편집장이 사서에게 전한다. 공장 GitHub는 [`osopung/Factory`](https://github.com/osopung/Factory). **API 키·비밀번호·OAuth는 그 레포에 넣지 않는다.** 사서는 코덱스 자리를 빼앗지 않는다. (2026-08-15 자름 · 2026-08-28 공장)
-- **고문** (윈도우 Cursor): **위키전담.** 조언. 사서 아님. 위키 Git은 **inbox만** — 쓰기 전 `git pull --ff-only`, 쓴 뒤 inbox만 commit·push, 사서에게 알림. ingest·daily·감수·집 설계 금지. 공장·Cursor Cloud 아님. (2026-08-15 · 2026-08-28)
+- **고문** (윈도우 Cursor): **조언자.** 사서 아님. 위키 Git은 **inbox만** — 쓰기 전 `git pull --ff-only`, 쓴 뒤 inbox만 commit·push, 사서에게 알림. ingest·daily·감수·집 설계 금지. 공장·Cursor Cloud 아님. (2026-08-15 · 2026-08-28 · 2026-09-04 조언자)
 
 ## 폴더 = 역할
 
