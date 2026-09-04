@@ -124,6 +124,10 @@
     {
       "key": "코덱스 토큰",
       "title": "헤르메스가 챗GPT Plus/Pro로 머리 전기를 씀. 호스팅어 아이디 분리가 아님"
+    },
+    {
+      "key": "도메인 지식",
+      "title": "domain knowledge — 그 일·그 분야만의 앎. 범용 AI 지식이 아님"
     }
   ],
   "useMarkdownExtraSyntax": true,
