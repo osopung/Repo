@@ -2,7 +2,7 @@
 title: "연결 통로 — API와 MCP"
 type: note
 domain: other
-status: draft
+status: final
 star: 5
 importance: 5
 keywords:

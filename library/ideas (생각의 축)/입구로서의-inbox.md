@@ -2,7 +2,7 @@
 title: "입구로서의 inbox"
 type: idea
 domain: life
-status: draft
+status: final
 updated: 2026-08-02
 media: []
 ---
@@ -14,7 +14,7 @@ media: []
 ## 핵심
 
 - purpose 논지 1: **기록이 입구다**
-- 선별은 편집장이 inbox에 넣을 때 · 사서는 온 것을 소화
+- 선별은 편집장이 inbox에 넣을 때 · 사서는 온 것을 `library/notes/`로 재탄생 (핵심·사서 인사이트 초안)
 - 완벽 분류보다 끊기지 않는 유입
 
 ## 내 한 줄

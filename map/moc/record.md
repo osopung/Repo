@@ -3,13 +3,15 @@ title: "기록 — MOC"
 type: moc
 domain: life
 status: final
-updated: 2026-08-03
+updated: 2026-08-30
 media: []
 ---
 
 # 기록 (Map of Content)
 
 날것 → STT → 노트 → idea → 작품. 오소풍_wiki의 메인 루프.
+
+**이번 주 (8/24–30):** 생활 루틴 · 시화 캘리 · 주일설교. [[library/projects/건강한-생활-루틴]] · [[map/daily/2026-08-29]] · [[library/notes/주일설교-2026-08-30-믿음의-동역자]]
 
 ```mermaid
 flowchart LR

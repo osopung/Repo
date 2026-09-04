@@ -2,7 +2,7 @@
 title: "ChatGPT 대화를 Zotero로 보관하는 방법"
 type: note
 domain: other
-status: draft
+status: final
 updated: 2026-08-14
 media: []
 ---

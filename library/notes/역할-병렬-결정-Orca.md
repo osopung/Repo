@@ -2,7 +2,7 @@
 title: "역할 · 병렬 · 결정"
 type: note
 domain: other
-status: draft
+status: final
 star: 5
 importance: 5
 keywords:
@@ -25,9 +25,9 @@ media: []
 
 ## 내 한 줄
 
-(초안) 격차는 환경·설계다. 역할을 나누고, 동시에 돌리고, 결정은 내가 한다.
+문제는 환경·설계다. 역할을 나누고, 동시에 돌리고, 결정은 내가 한다.
 
-- [ ] 감수
+- [x] 감수
 
 ## 말
 
@@ -43,8 +43,9 @@ media: []
 
 - [[library/notes/Orca-공장에만|Orca — 공장에만]]
 - [[library/notes/후츠릿-Orca-교차검증-시스템|원본 — Orca 교차검증]]
-- [[_archive/youtube-ASnanWMEPsI-orca-교차검증-스크립트|자막]]
+- [[youtube-orca-교차검증-스크립트|자막]]
 - [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 - ★5 [[library/notes/헤르메스-MOA|헤르메스 MOA]]
+- ★5 [[library/notes/세션-샌드|세션 샌드]]
 - [[map/moc/5스타|5스타]]
 - [[오소풍]]

@@ -2,8 +2,8 @@
 title: "84일 태국 여행"
 type: project
 domain: life
-status: draft
-updated: 2026-08-01
+status: final
+updated: 2026-08-31
 media: []
 source: "오소풍의 모든것 · cherry-pick C1"
 project_status: archived-memory
@@ -32,9 +32,9 @@ project_status: archived-memory
 
 ## 내 한 줄
 
-(초안) 태국은 여행지가 아니라, 순수와 영원으로 이끈 자연의 경이로움이었다.
+태국에서의 84일은 우리 부부에게 거칠 것 없는 자유 그 자체였다.
 
-- [ ] 감수
+- [x] 감수
 
 ## 연결
 

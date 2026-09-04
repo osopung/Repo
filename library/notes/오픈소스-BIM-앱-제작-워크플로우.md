@@ -2,7 +2,7 @@
 title: "오픈소스 BIM 앱 제작 워크플로우"
 type: note
 domain: other
-status: draft
+status: final
 updated: 2026-08-26
 media: []
 ---

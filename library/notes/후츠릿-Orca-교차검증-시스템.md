@@ -21,7 +21,7 @@ source: "https://youtu.be/ASnanWMEPsI"
 - 제목: Claude팀 vs Codex팀이 매긴 목표가 | Orca 교차검증 시스템
 - 채널: 후츠릿 - AI 자동화로 삽질 줄여주는 개발자 ([@chutzrit](https://www.youtube.com/@chutzrit))
 - URL: [https://youtu.be/ASnanWMEPsI](https://youtu.be/ASnanWMEPsI)
-- 스크립트: [[_archive/youtube-ASnanWMEPsI-orca-교차검증-스크립트|자막 전문]] (자동자막 · 타임스탬프 없음)
+- 스크립트: [[youtube-orca-교차검증-스크립트|자막 전문]] (자동자막 · 타임스탬프 없음)
 
 ## 한 페이지 요약
 
@@ -35,7 +35,7 @@ Orca는 새 에이전트가 아니라 **여러 에이전트가 동시에 일하�
 
 같은 요금제인데, 창 하나에서 순서대로 묻는 사람과 ==에이전트 팀을 병렬로 돌리는 사람==의 차이가 난다. ==터미널·구조 설계가 있는 사람은 되고, 없는 사람은 거기서 막힌다. Orca는 그 관리를 사람이 일일이 하지 않게 하려는 도구다.
 
-★5 [[library/notes/역할-병렬-결정|역할 · 병렬 · 결정]] — 역할을 나누고, 동시에 돌리고, 결정은 내가 한다.
+★5 [[역할-병렬-결정-Orca|역할 · 병렬 · 결정]] — 역할을 나누고, 동시에 돌리고, 결정은 내가 한다.
 
 ### 2. 세 층 — 에이전트 · 하네스 · Orca
 
@@ -87,8 +87,8 @@ Orca를 깔았다고 에이전트가 저절로 협업하지 않는다. **오케�
 ## 연결
 
 - [[library/notes/Orca-공장에만|Orca — 공장에만]]
-- ★5 [[library/notes/역할-병렬-결정|역할 · 병렬 · 결정]]
-- [[_archive/youtube-ASnanWMEPsI-orca-교차검증-스크립트|원본 스크립트]]
+- ★5 [[역할-병렬-결정-Orca|역할 · 병렬 · 결정]]
+- [[youtube-orca-교차검증-스크립트|원본 스크립트]]
 - [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 - [[library/notes/헤르메스-MOA]]
 - [[library/notes/헤르메스-영상에서-배울-인사이트]]
