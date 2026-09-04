@@ -12,6 +12,7 @@
 - [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 
 ## 최근
+- ★5 [[library/notes/헤르메스-직원만들기|헤르메스 직원만들기]]
 - [[library/notes/AI-에이전트-프롬프트-핵심-인사이트|AI 에이전트와 프롬프트]]
 - [[library/notes/프롬프트|프롬프트]]
 - [[map/daily/2026-09-03|daily 9/3]]

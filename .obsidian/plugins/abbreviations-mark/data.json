@@ -112,6 +112,10 @@
     {
       "key": "하네스",
       "title": "harness — 에이전트의 책상. 도구·파일·세션 (Claude Code·Codex)"
+    },
+    {
+      "key": "프로필 분기",
+      "title": "헤르메스 직원만들기 — 본체 복제가 아니라 고유 아이디 폴더"
     }
   ],
   "useMarkdownExtraSyntax": true,
