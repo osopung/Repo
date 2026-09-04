@@ -14,12 +14,20 @@
       "title": "Artificial Intelligence — 인공지능"
     },
     {
+      "key": "AI 네이티브",
+      "title": "AI Native — 챗을 곁에 두는 게 아니라, 역할·기억·규칙·일정으로 AI 직원이 일을 끝내는 운영"
+    },
+    {
       "key": "API",
       "title": "Application Programming Interface — 연결 통로(창구·콘센트)"
     },
     {
       "key": "CLI",
       "title": "Command Line Interface — 글자로 명령을 치는 화면"
+    },
+    {
+      "key": "Cron",
+      "title": "헤르메스 예약 — 같은 스킬을 시각에 맞춰 실행. 파일 복제(클론) 아님"
     },
     {
       "key": "CSS",
