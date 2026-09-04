@@ -1262,3 +1262,8 @@ append-only. 과거 블록은 수정하지 않는다.
 
 
 
+
+## [2026-09-04] note | ★5 헤르메스 3종 파일 경로
+
+- ★5 [[library/notes/헤르메스-3종-파일-경로]] — 편집장 확인 지도: `/opt/data/`=HERMES_HOME, SOUL·memories는 Git 밖, `Repo/` 안쪽만 GitHub
+- [[map/moc/5스타]] 목록 추가 · [[map/감수-대기]] 11건 · 오소풍 카드 메모 한 줄 · 한 줄 (초안) 감수 대기
