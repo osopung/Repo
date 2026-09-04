@@ -1222,5 +1222,6 @@ append-only. 과거 블록은 수정하지 않는다.
 
 - ★5 [[library/notes/헤르메스가-코덱스-토큰쓰기]] — 호스팅어 아이디 분리 아님. hPanel ChatGPT Plus/Pro
 - 한 줄 (초안) 감수 대기
+- 집의 수순: Luna 유지 → Nexos 거의 바닥이면 챗GPT로 갈아탐
 
 
