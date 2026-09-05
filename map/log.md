@@ -1295,3 +1295,13 @@ append-only. 과거 블록은 수정하지 않는다.
 - 편집장 결정: 챗지피티(코덱스)도 inbox 레인 — 2026-08-15 「집 Git 금지」 폐기 · 고문과 같은 규칙 (pull --ff-only · inbox만 · push 후 알림)
 - [[inbox/코덱스에게]] §3·§4 개정 · [[AGENTS]] 코덱스 규칙·명령표·「Hermes·고문·코덱스 → Git → 사서」절 · [[DESIGN-v2]] §9 Git 행 맞춤
 - Cursor Cloud는 공장만 (변경 없음) · 오소풍 카드 메모 한 줄
+
+## [2026-09-05] lint --fix | 수선 4개 — 스킬 레지스트리 · 지침 운영 자리 · 원천 선언 · weekly 상행 루프
+
+- [[map/moc/스킬]] 신설 — 스킬·Cron 목록·상태 한 장 (자료검색 job `d7875f02ac92` 새김)
+- 지침 3종 inbox → `library/ops/` 이동 (헤르메스에게_8.17.수정 · 고문에게 · 코덱스에게) — inbox는 순수 쏟아붓기
+- 고리 다시 잇기: [[오소풍]] · [[map/index]] · [[library/notes/헤르메스-3종-파일-경로]] · [[library/notes/에이전트-4대개념]] · [[library/notes/헤르메스-아이폰-설치]] · CSS 스니펫 (inbox 3건 제거)
+- [[library/ops/고문에게]] — 위키전담 → 조언자 · 코덱스 레인 표 맞춤
+- 「위키=원천, 헤르메스 3종=파생」 선언 — [[AGENTS]] · 3종 노트
+- weekly에 「스킬 개선 후보 1개」 — [[AGENTS]] 명령표 · [[DESIGN-v2]] §4·§7
+- 미결: 헤르메스 SOUL의 지침 경로가 `/opt/data/Repo/inbox/…`로 남음 → 텔레그램 한 줄 필요

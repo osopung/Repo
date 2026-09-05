@@ -162,7 +162,8 @@ v1(`오소풍의 모든것`)은 Karpathy식 LLM Wiki 연습이었다. 배운 점
 ├── library/
 │   ├── notes/            ← ingest 재탄생 (핵심·사서 인사이트 초안)
 │   ├── ideas (생각의 축)/ ← 반복 개념 (소수 · 승격제)
-│   └── projects/         ← 여행·루틴·진행 중 일
+│   ├── projects/         ← 여행·루틴·진행 중 일
+│   └── ops/              ← 에이전트 지침 (헤르메스·고문·코덱스 — 상주 운영 문서)
 │
 ├── essays/               ← 에세이·시상·칼럼 초고
 │
@@ -194,6 +195,7 @@ v1(`오소풍의 모든것`)은 Karpathy식 LLM Wiki 연습이었다. 배운 점
 | `library/notes/` | ingest로 재탄생한 것 (핵심·사서 인사이트 초안). 승격 전 전부 여기 |
 | `library/ideas (생각의 축)/` | 세 번 이상 만나거나, 내가 축으로 쓰는 개념만 |
 | `library/projects/` | 끝나지 않은 일 |
+| `library/ops/` | 에이전트 지침 — 상주 운영 문서 (inbox 아님) |
 | `essays/` | 문장으로 쓰는 작업실 |
 | `art/` | 작품(시각) 작업실 — 글과 섞지 않음 |
 | `conversations/` | LLM·Cursor 대화 결정·합의 축적 |
@@ -378,7 +380,7 @@ media: []          # 외부 대용량 경로 (있을 때만)
 | `daily` | §2-2 — 관심·중요 일 기준 제안 1~3개 → Home「사서 제안」·log append (자동 반영 없음) |
 | `lint` | 검사만 보고 |
 | `lint --fix` | 안전 수정만 자동 + 나머지는 초안/제안 ([[AGENTS]] 참고) |
-| `weekly` | Home·논지·moc 갱신 **제안** — 사람 승인 후 반영 |
+| `weekly` | Home·논지·moc 갱신 **제안** + **스킬 개선 후보 1개** ([[map/moc/스킬]] 상행 루프) — 사람 승인 후 반영 |
 
 ### Ingest 워크플로
 
