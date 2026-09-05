@@ -1351,3 +1351,4 @@ append-only. 과거 블록은 수정하지 않는다.
 - [[AGENTS]] — ingest slug 규칙에 「Windows 금지 문자 금지」 · Lint 체크에 추가
 - 미결 해소 방식 메모: 백업 가지의 소감은 되살리지 않음 (중복) — 편집장 확인
 - 고문 클론 복구 완료 확인: 699a56d 수신 · `_5스타` 2파일 정상 체크아웃 · sparse-checkout 예외 걷음 · `backup-d509d10` 삭제 — 윈도우 문 정상 레인 복귀
+- 수신: 챗지피티 Work Agent 첫 inbox push (`415c52d`, 연결 테스트 1건) — pull·수신 확인 완료, 원본 `_archive/` 보관. 여섯 번째 몸 레인 개통 확인
