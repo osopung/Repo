@@ -458,7 +458,7 @@ media: []          # 외부 대용량 경로 (있을 때만)
 | `오소풍-미디어-보관` | 대용량 원본 (비공유) |
 | ★5 `오소풍-공유폴더` | 위키 클릭용 공유 미디어 · [[library/notes/오소풍-공유폴더]] |
 | `오소풍의 모든것` | v1 archive — 신규 작업 금지 |
-| Git (`osopung/Repo`) | 이력·복구 (Sync와 병행). inbox push는 **헤르메스**. **코덱스·Cursor Cloud는 집 Git 경로가 아님** — 집용 산출물은 편집장이 사서에게 전한다. 공장: `osopung/Factory` (비밀 파일 금지) |
+| Git (`osopung/Repo`) | 이력·복구 (Sync와 병행). inbox push는 **헤르메스·고문·코덱스** — 문은 inbox 하나 (2026-09-05). **Cursor Cloud는 집 Git 경로가 아님.** 공장: `osopung/Factory` (비밀 파일 금지) |
 
 ---
 
