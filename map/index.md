@@ -29,7 +29,7 @@
 - [[map/weekly/2026-08-W4|weekly 8/24–30]]
 - [[library/notes/주일설교-2026-08-30-믿음의-동역자|주일설교 8/30 믿음의 동역자]]
 - ★5 [[library/notes/스킬-먼저-Cron|스킬 먼저, 그다음 Cron]]
-- [[library/notes/사서-스킬-ingest|사서 스킬 — ingest]]
+- [[library/skills/사서-스킬-ingest|사서 스킬 — ingest]]
 - [[library/notes/AI-직원을-만드는-핵심-인사이트|AI 직원]] · [[library/notes/슈퍼-휴먼이-하는-일|슈퍼 휴먼]] · [[library/notes/코덱스-활용의-핵심-인사이트|코덱스 활용]]
 - [[conversations/2026-08-28-공장-역할|공장 역할 8/28]] · [osopung/Factory](https://github.com/osopung/Factory)
 - [[library/projects/건강한-생활-루틴|건강한 생활 루틴]]
@@ -45,7 +45,7 @@
 - [[library/notes/헤르메스-영상에서-배울-인사이트|헤르메스 영상 인사이트]]
 - [[library/notes/주일설교-2026-08-23-기도하며-깨어-소금처럼|주일설교 8/23]]
 - [[library/notes/일기-2026-08-18-치악산|일기 8/18 치악산]]
-- [[library/notes/헤르메스-지시스킬|헤르메스 지시스킬]]
+- [[library/skills/헤르메스-지시스킬|헤르메스 지시스킬]]
 - [[library/projects/소풍헌-홀로-1년|소풍헌 홀로 1년]]
 - [[library/projects/소풍헌-홀로-1년-자료|소풍헌 홀로 1년 — 자료]]
 - [[essays/소풍헌-홀로-1년/01-문지방|1. 문지방]]

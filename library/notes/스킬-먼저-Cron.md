@@ -50,7 +50,7 @@ Cron은 **예약**이다. 같은 스킬 파일을 복제하는 단계가 아니�
 ## 연결
 
 - ★5 [[library/notes/크론잡과-학습루프|크론잡과 학습루프]]
-- [[library/notes/사서-스킬-ingest]]
+- [[library/skills/사서-스킬-ingest]]
 - [[library/notes/AI-직원을-만드는-핵심-인사이트]]
 - [[library/notes/헤르메스-에이전트-핵심정리-어디에쓰나-커스-역할분담]]
 - [[map/moc/5스타|5스타]]
