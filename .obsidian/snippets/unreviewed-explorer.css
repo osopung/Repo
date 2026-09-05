@@ -1,28 +1,30 @@
-/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-09-05 · 감수 11건) */
+/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-09-05 · 감수 12건) */
 /* [[map/감수-대기]] 와 같은 목록 — 접속·lint·정식화 때 사서가 재생성 */
 
 .nav-file-title[data-path="library/notes/헤르메스-3종-파일-경로.md"],
 .nav-file-title[data-path="library/notes/헤르메스-3종-파일-경로.md"] .nav-file-title-content,
-.nav-file-title[data-path="library/notes/헤르메스-직원만들기.md"],
-.nav-file-title[data-path="library/notes/헤르메스-직원만들기.md"] .nav-file-title-content,
 .nav-file-title[data-path="library/notes/에이전트-4대개념.md"],
 .nav-file-title[data-path="library/notes/에이전트-4대개념.md"] .nav-file-title-content,
-.nav-file-title[data-path="library/notes/헤르메스가-코덱스-토큰쓰기.md"],
-.nav-file-title[data-path="library/notes/헤르메스가-코덱스-토큰쓰기.md"] .nav-file-title-content,
-.nav-file-title[data-path="library/notes/헤르메스-MOA.md"],
-.nav-file-title[data-path="library/notes/헤르메스-MOA.md"] .nav-file-title-content,
-.nav-file-title[data-path="library/notes/스킬-먼저-Cron.md"],
-.nav-file-title[data-path="library/notes/스킬-먼저-Cron.md"] .nav-file-title-content,
-.nav-file-title[data-path="library/notes/크론잡과-학습루프.md"],
-.nav-file-title[data-path="library/notes/크론잡과-학습루프.md"] .nav-file-title-content,
-.nav-file-title[data-path="library/notes/윈도우-헤르메스-설치.md"],
-.nav-file-title[data-path="library/notes/윈도우-헤르메스-설치.md"] .nav-file-title-content,
-.nav-file-title[data-path="library/notes/윈도우-헤르메스-시작.md"],
-.nav-file-title[data-path="library/notes/윈도우-헤르메스-시작.md"] .nav-file-title-content,
-.nav-file-title[data-path="library/notes/헤르메스-아이폰-설치.md"],
-.nav-file-title[data-path="library/notes/헤르메스-아이폰-설치.md"] .nav-file-title-content,
-.nav-file-title[data-path="library/notes/헤르메스-아이폰-단축어.md"],
-.nav-file-title[data-path="library/notes/헤르메스-아이폰-단축어.md"] .nav-file-title-content {
+.nav-file-title[data-path="_archive/youtube-에이전트-4대개념-스크립트.md"],
+.nav-file-title[data-path="_archive/youtube-에이전트-4대개념-스크립트.md"] .nav-file-title-content,
+.nav-file-title[data-path="_archive/youtube-에이전트-학습-천재적-방법-스크립트.md"],
+.nav-file-title[data-path="_archive/youtube-에이전트-학습-천재적-방법-스크립트.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/AI-에이전트-프롬프트-핵심-인사이트.md"],
+.nav-file-title[data-path="library/notes/AI-에이전트-프롬프트-핵심-인사이트.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/프롬프트.md"],
+.nav-file-title[data-path="library/notes/프롬프트.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/사서-스킬-ingest.md"],
+.nav-file-title[data-path="library/notes/사서-스킬-ingest.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/추억을-소장하는-일.md"],
+.nav-file-title[data-path="library/notes/추억을-소장하는-일.md"] .nav-file-title-content,
+.nav-file-title[data-path="essays/소풍헌-홀로-1년/01-문지방.md"],
+.nav-file-title[data-path="essays/소풍헌-홀로-1년/01-문지방.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/유튜브-스타십-완성-이후.md"],
+.nav-file-title[data-path="library/notes/유튜브-스타십-완성-이후.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/유튜브-일론-인류-5년.md"],
+.nav-file-title[data-path="library/notes/유튜브-일론-인류-5년.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/skills/매일-자료검색-스킬.md"],
+.nav-file-title[data-path="library/skills/매일-자료검색-스킬.md"] .nav-file-title-content {
   color: #e03e2d !important;
   text-decoration: underline;
 }
