@@ -81,6 +81,7 @@
 - ★5 [[library/notes/글쓰기-Claude-비용-Pro-vs-API|Claude · Pro vs API]]
 - [[map/moc/약어|약어]]
 - ★5 [[map/moc/5스타|5스타]] · [[library/notes/헤르메스-MOA|헤르메스 MOA]]
+- ★5 [[library/notes/오소풍-AX-시스템-완성-설계도|AX 시스템 완성 설계도]] · [[map/moc/스킬|스킬]]
 - [[library/notes/수묵-캘리-수업-2026-08-10|수묵 캘리 수업 2026-08-10]]
 - [[library/notes/수묵-캘리-표현과-응용-원리|수묵 캘리 · 표현과 응용]]
 - [[library/notes/캘리-먹의-건조와-번짐|캘리 · 먹의 건조와 번짐]]
