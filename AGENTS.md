@@ -17,8 +17,8 @@
 - 애매하면 **제안만 하고 멈춘다.** 추측으로 구조를 키우지 않는다.
 - **질문:** 단정·추측으로 채우기 전에 **편집장에게 질문**한다 (daily/query 등에서 질문 1~2를 아끼지 말 것). ★5 [[library/notes/질문-AI가-되묻게|질문 — AI가 되묻게]]
 - **반대:** 아첨·맹목 복종 금지. **사실·위험이 틀리면** 반대 의견을 **분명히** 말한다. 취향·문장 취향까지 사사건건 반대하지는 않는다.
-- **코덱스:** 공장([`osopung/Factory`](https://github.com/osopung/Factory))이 본업. 집에는 **inbox만** — 고문과 같은 레인: 쓰기 전 `git pull --ff-only`, 쓴 뒤 inbox만 commit·push, 사서에게 알림. 공장 파일·**API 키·비밀번호·OAuth 실값은 어느 레포에도 넣지 않는다.** 사서는 코덱스 자리를 빼앗지 않는다. (2026-08-15 자름 · 2026-08-28 공장 · 2026-09-05 inbox 문 통일)
-- **고문** (윈도우 Cursor): **조언자.** 사서 아님. 위키 Git은 **inbox만** — 쓰기 전 `git pull --ff-only`, 쓴 뒤 inbox만 commit·push, 사서에게 알림. ingest·daily·감수·집 설계 금지. 공장·Cursor Cloud 아님. (2026-08-15 · 2026-08-28 · 2026-09-04 조언자)
+- **코덱스:** 공장([`osopung/Factory`](https://github.com/osopung/Factory))이 본업. 집에는 **inbox만** — 고문과 같은 레인: 쓰기 전 `git pull --ff-only`, 쓴 뒤 inbox만 commit·push, 완료 보고는 편집장에게(=사서 알림). 공장 파일·**API 키·비밀번호·OAuth 실값은 어느 레포에도 넣지 않는다.** 사서는 코덱스 자리를 빼앗지 않는다. (2026-08-15 자름 · 2026-08-28 공장 · 2026-09-05 inbox 문 통일)
+- **고문** (윈도우 Cursor): **조언자.** 사서 아님. 위키 Git은 **inbox만** — 쓰기 전 `git pull --ff-only`, 쓴 뒤 inbox만 commit·push, 완료 보고는 편집장에게(=사서 알림). ingest·daily·감수·집 설계 금지. 공장·Cursor Cloud 아님. (2026-08-15 · 2026-08-28 · 2026-09-04 조언자)
 - **헤르메스 3종** (SOUL·MEMORY·USER): `/opt/data/`에 살지만 **원천은 위키** — 바꿀 때 위키(AGENTS·`library/ops/` 지침)부터 고치고 3종에 반영한다. (2026-09-05)
 
 ## 폴더 = 역할
@@ -116,7 +116,7 @@ inbox에 스크립트 파일이 이미 들어온 경우는 **접속 시 ingest**
 
 헤르메스(VPS)가 `inbox/`에 쓰거나, **고문**(윈도우 로컬 Cursor)·**코덱스**(윈도우 ChatGPT Codex)·**클라우드 커스**(Cursor Cloud)·**챗지피티**(Work Agent)가 위키 클론에서 **pull 뒤 inbox만 push**하면:
 
-1. **에이전트 공통 Git:** 작업 시작 `git pull --ff-only`. 글은 `inbox/*.md`만. `git add inbox && git commit && git push`. 집 전체 커밋·force push 금지. 끝나면 사서에게 알린다.
+1. **에이전트 공통 Git:** 작업 시작 `git pull --ff-only`. 글은 `inbox/*.md`만. `git add inbox && git commit && git push`. 집 전체 커밋·force push 금지. 끝나면 **편집장에게 완료 보고** (커밋·파일 한 줄) — 이것이 곧 사서 알림이다. 사서는 채팅 세션 안에만 있어 에이전트가 직접 찌를 수 없고, 접속 시 pull로 어차피 발견한다. (2026-09-05 명문화)
 2. **트리거:** 편집장이 사서에게 push를 알리거나, 채팅에 성공 메시지를 넘긴다.  
 3. **사서 (맥 Cursor만):** 맥 볼트(`오소풍_wiki`)에서 `git pull` (가능하면 `--ff-only`).  
 4. **보고:** 받은 파일 경로·커밋 한 줄을 편집장에게 짧게 알린다.  
@@ -129,7 +129,7 @@ inbox에 스크립트 파일이 이미 들어온 경우는 **접속 시 ingest**
 늘 초 단위로 맞출 필요는 없다. **세 때만** 맞춘다.
 
 1. **사서 접속 시작** — `git pull --ff-only`. 알림이 없어도.
-2. **헤르메스** — `inbox/`에 쓰면 바로 commit·push. **고문·코덱스·클라우드 커스·챗지피티** — 쓰기 전 pull · 집에 글을 남길 때만 inbox push. 끝나면 사서에게 알린다.
+2. **헤르메스** — `inbox/`에 쓰면 바로 commit·push. **고문·코덱스·클라우드 커스·챗지피티** — 쓰기 전 pull · 집에 글을 남길 때만 inbox push. 끝나면 편집장에게 완료 보고.
 3. **사서** — 오늘 집을 고쳤으면 그 세션에서 commit·push. `맞춰`를 기다리지 않는다. 편집장이 막으면 안 함.
 
 하루를 넘겨 로컬에만 쌓아 두지 말 것. 가지를 집의 두 번째 본문으로 쓰지 말 것. 충돌은 사서가 고친다.

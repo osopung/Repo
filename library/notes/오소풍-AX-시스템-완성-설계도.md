@@ -89,7 +89,7 @@ media: []
 | **코덱스** (윈도우 ChatGPT · Codex) | 윈도우 | 공장(Factory) 프로그램·앱 | 집 전체 | `inbox/`만 |
 | **챗지피티** (Work Agent) | 윈도우 ChatGPT | 문서·조사·정리 작업 | 집 전체 | `inbox/`만 (전용 로컬 클론) |
 
-공통 규칙 (inbox 레인): 쓰기 전 `git pull --ff-only` → `inbox/*.md`만 → commit·push → 사서에게 알림. 집 본문 직접 수정 금지.
+공통 규칙 (inbox 레인): 쓰기 전 `git pull --ff-only` → `inbox/*.md`만 → commit·push → 편집장에게 완료 보고(=사서 알림 — 사서는 채팅 세션 안에만 있어 직접 알림 불가, 접속 시 pull로 발견 · 2026-09-05 명문화). 집 본문 직접 수정 금지.
 
 ## 문지방 (지킬 자리)
 
