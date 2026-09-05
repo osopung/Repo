@@ -87,7 +87,7 @@ media: []
 | **클라우드 커스** (Cursor Cloud) | 클라우드 | 공장 본업 · ingest 초안 | 집 전체 | `inbox/`만 |
 | **헤르메스** (VPS) | 아이폰·텔레그램 | 24시간 비서 · 자료검색 Cron · 재료 수집 | 집 전체 (clone) | `inbox/`만 |
 | **코덱스** (윈도우 ChatGPT · Codex) | 윈도우 | 공장(Factory) 프로그램·앱 | 집 전체 | `inbox/`만 |
-| **챗지피티** (Work Agent) | 윈도우 ChatGPT | 문서·조사·정리 작업 | 집 전체 | `inbox/`만 (git 못 쓰면 편집장 경유) |
+| **챗지피티** (Work Agent) | 윈도우 ChatGPT | 문서·조사·정리 작업 | 집 전체 | `inbox/`만 (전용 로컬 클론) |
 
 공통 규칙 (inbox 레인): 쓰기 전 `git pull --ff-only` → `inbox/*.md`만 → commit·push → 사서에게 알림. 집 본문 직접 수정 금지.
 

@@ -116,7 +116,7 @@ inbox에 스크립트 파일이 이미 들어온 경우는 **접속 시 ingest**
 
 헤르메스(VPS)가 `inbox/`에 쓰거나, **고문**(윈도우 로컬 Cursor)·**코덱스**(윈도우 ChatGPT Codex)·**클라우드 커스**(Cursor Cloud)·**챗지피티**(Work Agent)가 위키 클론에서 **pull 뒤 inbox만 push**하면:
 
-1. **에이전트 공통 Git:** 작업 시작 `git pull --ff-only`. 글은 `inbox/*.md`만. `git add inbox && git commit && git push`. 집 전체 커밋·force push 금지. 끝나면 사서에게 알린다. (챗지피티가 git을 못 쓰면 편집장이 대신 inbox에 넣는다.)
+1. **에이전트 공통 Git:** 작업 시작 `git pull --ff-only`. 글은 `inbox/*.md`만. `git add inbox && git commit && git push`. 집 전체 커밋·force push 금지. 끝나면 사서에게 알린다.
 2. **트리거:** 편집장이 사서에게 push를 알리거나, 채팅에 성공 메시지를 넘긴다.  
 3. **사서 (맥 Cursor만):** 맥 볼트(`오소풍_wiki`)에서 `git pull` (가능하면 `--ff-only`).  
 4. **보고:** 받은 파일 경로·커밋 한 줄을 편집장에게 짧게 알린다.  
