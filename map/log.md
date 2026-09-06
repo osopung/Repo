@@ -1384,3 +1384,6 @@ append-only. 과거 블록은 수정하지 않는다.
 - ingest: 헤르메스 첫 inbox push — [[library/notes/헤르메스-데스크탑-개인환경-구분]]으로 재탄생 (원본 _archive). 데스크탑=아이폰과 같은 VPS 몸(편집장 확인) · 설계도 헤르메스 레인 갱신 · 감수 대기 5→6건
 - 정식화: [[library/notes/헤르메스-데스크탑-개인환경-구분]] · ★5 [[library/notes/에이전트-4대개념]] · [[library/notes/추억을-소장하는-일]] — [x] 감수 3건 (편집장이 status·(초안) 직접 정리). 감수 대기 6→3건
 - 정식화: [[essays/소풍헌-홀로-1년/01-문지방]] [x] 감수 → status final (감수 대기 3→2건 — 스타십·일론 남음)
+- git: 원격 3커밋(챗지피티 inbox 2 + docs 1) rebase 후 push — 분기 해소 (9faf09a)
+- ingest: inbox 5건 재탄생 — [[library/notes/MVP-최소기능버전]] · [[library/notes/기회-3가지-작업시스템]] · [[library/notes/첫-작품을-살아있는-도구로]] · [[library/notes/ChatGPT-모델-한도와-Luna]](고문) · [[library/notes/프로젝트-진행단계-템플릿]] (원본 _archive). 「윈도우 데스크탑 폴드 지도.md」는 빈 파일(1바이트)이라 보류 — inbox에 남김
+- 유튜브 공부: 드라이브 「유튜브」 문서 5주소 → 노트 5개 (500자 키워드 정리, 편집장 지시) — [[library/notes/유튜브-건강식의-함정]](자연식) · [[library/notes/유튜브-캘리그라피-6가지-꿀팁]](일상기록) · [[library/notes/유튜브-소나무-둥치-질감]] · [[library/notes/유튜브-챗지피티-워크-5가지]] · [[library/notes/유튜브-텔로미어-늙지않는-사람들]]. 감수 대기 2→12건
