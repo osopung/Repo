@@ -1387,3 +1387,9 @@ append-only. 과거 블록은 수정하지 않는다.
 - git: 원격 3커밋(챗지피티 inbox 2 + docs 1) rebase 후 push — 분기 해소 (9faf09a)
 - ingest: inbox 5건 재탄생 — [[library/notes/MVP-최소기능버전]] · [[library/notes/기회-3가지-작업시스템]] · [[library/notes/첫-작품을-살아있는-도구로]] · [[library/notes/ChatGPT-모델-한도와-Luna]](고문) · [[library/notes/프로젝트-진행단계-템플릿]] (원본 _archive). 「윈도우 데스크탑 폴드 지도.md」는 빈 파일(1바이트)이라 보류 — inbox에 남김
 - 유튜브 공부: 드라이브 「유튜브」 문서 5주소 → 노트 5개 (500자 키워드 정리, 편집장 지시) — [[library/notes/유튜브-건강식의-함정]](자연식) · [[library/notes/유튜브-캘리그라피-6가지-꿀팁]](일상기록) · [[library/notes/유튜브-소나무-둥치-질감]] · [[library/notes/유튜브-챗지피티-워크-5가지]] · [[library/notes/유튜브-텔로미어-늙지않는-사람들]]. 감수 대기 2→12건
+
+## [2026-09-07] 정식 | 템플릿 ★5 · 기회 3가지
+
+- 삭제: inbox 「윈도우 데스크탑 폴드 지도.md」 — 빈 파일(1바이트), 편집장 지시
+- 이동·별: ★5 [[library/projects/프로젝트-진행단계-템플릿]] — 편집장이 챗지피티의 「5스타」 자기평가 인정 · notes→projects 이동 · 5스타 moc 등록 (감수는 계속)
+- 정식화: [[library/notes/기회-3가지-작업시스템]] [x] 감수 → status final (감수 대기 12→11건) · 편집장 결정: 「측정 지표 1개 weekly에 얹자」 — 다음 weekly부터 반영
