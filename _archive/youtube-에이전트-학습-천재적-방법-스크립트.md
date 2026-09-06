@@ -2,7 +2,7 @@
 title: "99.9%가 모르는 AI 에이전트를 학습시키는 천재적 방법 — 스크립트"
 type: note
 domain: other
-status: draft
+status: final
 star: 5
 importance: 5
 keywords:

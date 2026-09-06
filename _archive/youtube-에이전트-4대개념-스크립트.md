@@ -2,7 +2,7 @@
 title: "AI 에이전트! 이거 없으면 100% 멍청합니다 — 스크립트"
 type: note
 domain: other
-status: draft
+status: final
 updated: 2026-09-04
 media: []
 source: "https://youtu.be/y_8IOsLcJrE"
