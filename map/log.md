@@ -1393,3 +1393,5 @@ append-only. 과거 블록은 수정하지 않는다.
 - 삭제: inbox 「윈도우 데스크탑 폴드 지도.md」 — 빈 파일(1바이트), 편집장 지시
 - 이동·별: ★5 [[library/projects/프로젝트-진행단계-템플릿]] — 편집장이 챗지피티의 「5스타」 자기평가 인정 · notes→projects 이동 · 5스타 moc 등록 (감수는 계속)
 - 정식화: [[library/notes/기회-3가지-작업시스템]] [x] 감수 → status final (감수 대기 12→11건) · 편집장 결정: 「측정 지표 1개 weekly에 얹자」 — 다음 weekly부터 반영
+- weekly 형식: **프로젝트 3칸**(완료물 1 · 우선순위 1 · 측정 지표 1) 신설 — AGENTS·DESIGN-v2 반영 (편집장 9/7 결정, 뼈대는 ★5 [[library/projects/프로젝트-진행단계-템플릿]])
+- weekly | [[map/weekly/2026-08-W5]] 작성 (주일 아침 놓침 → 월요일 자정 보충) — 3칸 첫 적용 · 스킬 개선 후보: 유튜브 요약 WebFetch 우선
