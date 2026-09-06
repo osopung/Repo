@@ -2,7 +2,7 @@
 title: "AI 에이전트와 프롬프트의 핵심 인사이트"
 type: note
 domain: other
-status: draft
+status: final
 updated: 2026-09-04
 media: []
 topics: [AI 에이전트, 프롬프트 엔지니어링, 모델별 활용, 검증, Hermes, Codex]
