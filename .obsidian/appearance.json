@@ -3,7 +3,6 @@
   "theme": "system",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
-    "unreviewed-red",
     "unreviewed-explorer"
   ]
 }

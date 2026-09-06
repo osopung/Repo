@@ -23,7 +23,7 @@
 - [[library/notes/추억을-소장하는-일|추억을 소장하는 일]]
 - [[library/projects/2026-그대의-생일을-기념하며|2026, 그대의 생일을 기념하며]]
 - [[map/daily/2026-09-01|daily 9/1]]
-- [[map/추천-폴더구조|맥 소풍 · Drive 폴더 구조]]
+- [[맥 폴드 완성 트리|맥 소풍 · Drive 폴더 구조]]
 - [[map/monthly/2026-09|monthly 2026-09 계획]]
 - [[map/monthly/2026-08|monthly 2026-08]]
 - [[map/weekly/2026-08-W4|weekly 8/24–30]]
