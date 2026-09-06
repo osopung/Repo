@@ -184,6 +184,7 @@ v1(`오소풍의 모든것`)은 Karpathy식 LLM Wiki 연습이었다. 배운 점
 │   ├── daily/            ← (선택) daily 제안 보관
 │   └── moc/              ← 주제 지도 (선택)
 │
+├── 집 설계도/             ← 집의 구조·설계 문서 (완성 설계도 · 맥 폴드 트리)
 ├── assets/               ← 노트에 붙는 가벼운 첨부
 └── _archive/             ← v1 이관 대기 · CHERRY-PICK.md
 ```
@@ -202,6 +203,7 @@ v1(`오소풍의 모든것`)은 Karpathy식 LLM Wiki 연습이었다. 배운 점
 | `art/` | 작품(시각) 작업실 — 글과 섞지 않음 |
 | `conversations/` | LLM·Cursor 대화 결정·합의 축적 |
 | `map/` | 지도·목차·이력 |
+| `집 설계도/` | 집의 구조·설계 문서 |
 | `assets/` | Sync에 올려도 되는 작은 미디어 |
 
 연결은 폴더가 아니라 `[[wikilink]]`와 `map/moc/`가 한다.

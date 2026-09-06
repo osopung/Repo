@@ -1,4 +1,4 @@
-/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-09-06 · 감수 9건) */
+/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-09-06 · 감수 8건) */
 /* [[map/감수-대기]] 와 같은 목록 — 접속·lint·정식화 때 사서가 재생성 */
 
 .nav-file-title[data-path="library/notes/헤르메스-3종-파일-경로.md"],
@@ -16,9 +16,7 @@
 .nav-file-title[data-path="library/notes/유튜브-스타십-완성-이후.md"],
 .nav-file-title[data-path="library/notes/유튜브-스타십-완성-이후.md"] .nav-file-title-content,
 .nav-file-title[data-path="library/notes/유튜브-일론-인류-5년.md"],
-.nav-file-title[data-path="library/notes/유튜브-일론-인류-5년.md"] .nav-file-title-content,
-.nav-file-title[data-path="library/notes/오소풍-AX-시스템-완성-설계도.md"],
-.nav-file-title[data-path="library/notes/오소풍-AX-시스템-완성-설계도.md"] .nav-file-title-content {
+.nav-file-title[data-path="library/notes/유튜브-일론-인류-5년.md"] .nav-file-title-content {
   color: #e03e2d !important;
   text-decoration: underline;
 }

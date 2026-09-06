@@ -5,6 +5,7 @@
 
 ## 최근
 
+- [[conversations/2026-09-05-집-설계도-완성|2026-09-05 · 집 설계도 완성 · 6인 조직]]
 - [[conversations/2026-09-02-drive-스트림|2026-09-02 · Drive 스트림 · 맞춰]]
 - [[conversations/2026-08-28-공장-역할|2026-08-28 · 공장 레포 · 역할 분담]]
 - [[conversations/2026-08-19-다독다독-접목|2026-08-19 · 다독다독 공부 · 접목 문답]]
@@ -26,6 +27,7 @@
 ### design
 - [[conversations/2026-08-01-wiki-design-v2|위키 v2 설계 완성]]
 - [[conversations/2026-08-02-record-moc-star5|ideas 폴더명 · daily B · 노션 갤러리]]
+- [[conversations/2026-09-05-집-설계도-완성|8원칙 진단 → 완성 설계도 · 수선 4개]]
 
 ### ingest
 - [[conversations/2026-08-01-wiki-design-v2|자동 ingest 합의]]
@@ -42,6 +44,7 @@
 - [[conversations/2026-08-28-공장-역할|공장 레포 · 고문 위키전담 · Cursor Cloud]]
 - [[conversations/2026-09-02-drive-스트림|Drive 스트림 · 맞춰는 확인용]]
 - [[conversations/2026-08-19-다독다독-접목|헤르메스 텔레그램 그룹 · NotebookLM]]
+- [[conversations/2026-09-05-집-설계도-완성|inbox 레인 통일 · 공문 5통 · 고문 클론 복구]]
 
 ### life
 - [[conversations/2026-08-12-일인소송-왕길역|일인소송 · 왕길역]] · [[library/projects/일인소송/_index|프로젝트]]

@@ -35,6 +35,7 @@ art/              캘리·그림·사진 작품 (독립)
 conversations/    대화록 (주제·날짜 축적)
 map/              index · log(append-only) · moc
 assets/           노트용 가벼운 첨부
+집 설계도/         집의 구조·설계 문서 (완성 설계도 · 맥 폴드 트리)
 ```
 
 ## 명령
