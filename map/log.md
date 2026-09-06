@@ -1383,4 +1383,3 @@ append-only. 과거 블록은 수정하지 않는다.
 - 정식화: ★5 [[프롬프트 템플릿/공통-프롬프트-템플릿]] · [[library/notes/AI-에이전트-프롬프트-핵심-인사이트]] · [[library/notes/프롬프트]] — [x] 감수 3건 → status final (감수 대기 8→5건)
 - ingest: 헤르메스 첫 inbox push — [[library/notes/헤르메스-데스크탑-개인환경-구분]]으로 재탄생 (원본 _archive). 데스크탑=아이폰과 같은 VPS 몸(편집장 확인) · 설계도 헤르메스 레인 갱신 · 감수 대기 5→6건
 - 정식화: [[library/notes/헤르메스-데스크탑-개인환경-구분]] · ★5 [[library/notes/에이전트-4대개념]] · [[library/notes/추억을-소장하는-일]] — [x] 감수 3건 (편집장이 status·(초안) 직접 정리). 감수 대기 6→3건
-- 정식화: [[library/notes/헤르메스-데스크탑-개인환경-구분]] · ★5 [[library/notes/에이전트-4대개념]] · [[library/notes/추억을-소장하는-일]] — [x] 감수 3건 (편집장이 status·(초안) 직접 정리). 감수 대기 6→3건
