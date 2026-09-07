@@ -1386,7 +1386,7 @@ append-only. 과거 블록은 수정하지 않는다.
 - 정식화: [[essays/소풍헌-홀로-1년/01-문지방]] [x] 감수 → status final (감수 대기 3→2건 — 스타십·일론 남음)
 - git: 원격 3커밋(챗지피티 inbox 2 + docs 1) rebase 후 push — 분기 해소 (9faf09a)
 - ingest: inbox 5건 재탄생 — [[library/notes/MVP-최소기능버전]] · [[library/notes/기회-3가지-작업시스템]] · [[library/notes/첫-작품을-살아있는-도구로]] · [[library/notes/ChatGPT-모델-한도와-Luna]](고문) · [[library/notes/프로젝트-진행단계-템플릿]] (원본 _archive). 「윈도우 데스크탑 폴드 지도.md」는 빈 파일(1바이트)이라 보류 — inbox에 남김
-- 유튜브 공부: 드라이브 「유튜브」 문서 5주소 → 노트 5개 (500자 키워드 정리, 편집장 지시) — [[library/notes/유튜브-건강식의-함정]](자연식) · [[library/notes/유튜브-캘리그라피-6가지-꿀팁]](일상기록) · [[library/notes/유튜브-소나무-둥치-질감]] · [[library/notes/유튜브-챗지피티-워크-5가지]] · [[library/notes/유튜브-텔로미어-늙지않는-사람들]]. 감수 대기 2→12건
+- 유튜브 공부: 드라이브 「유튜브」 문서 5주소 → 노트 5개 (500자 키워드 정리, 편집장 지시) — [[library/notes/유튜브-건강식의-함정]](자연식) · [[유튜브-캘리그라피-일상기록]](일상기록) · [[library/notes/유튜브-소나무-둥치-질감]] · [[library/notes/유튜브-챗지피티-워크-5가지]] · [[library/notes/유튜브-텔로미어-늙지않는-사람들]]. 감수 대기 2→12건
 
 ## [2026-09-07] 정식 | 템플릿 ★5 · 기회 3가지
 
@@ -1395,3 +1395,48 @@ append-only. 과거 블록은 수정하지 않는다.
 - 정식화: [[library/notes/기회-3가지-작업시스템]] [x] 감수 → status final (감수 대기 12→11건) · 편집장 결정: 「측정 지표 1개 weekly에 얹자」 — 다음 weekly부터 반영
 - weekly 형식: **프로젝트 3칸**(완료물 1 · 우선순위 1 · 측정 지표 1) 신설 — AGENTS·DESIGN-v2 반영 (편집장 9/7 결정, 뼈대는 ★5 [[library/projects/프로젝트-진행단계-템플릿]])
 - weekly | [[map/weekly/2026-08-W5]] 작성 (주일 아침 놓침 → 월요일 자정 보충) — 3칸 첫 적용 · 스킬 개선 후보: 유튜브 요약 WebFetch 우선
+
+## [2026-09-07] pull | inbox 1 · MTS
+
+- pull: `inbox/레딧-사용법.md` (헤르메스, 730eab1)
+- ingest: [[레딧 Reddit-사용법]] (원본 `_archive/레딧-사용법`) · 감수 대기 11→12건
+- MTS = Make Time System (마담초이). 공개 템플릿 확인 · 약어 목록에 추가. 편집장 노션 복제본(채워 넣은 일정)은 로그인 없어 못 읽음
+
+## [2026-09-07] note | MTS 뼈대 · daily
+
+- 노트: [[library/notes/MTS-메이크-타임-시스템]] — 사다리 층과 루틴·daily·weekly 대비. 노션 통째 복제 안 함 (초안·감수)
+- daily: [[map/daily/2026-09-07]] · Home 당일분
+- 캘린더: 글쓰기 당일분만 「MTS 뼈대를 루틴·daily와 맞추기」(반복 시리즈는 그대로)
+- 연결: [[library/projects/건강한-생활-루틴]] · [[오소풍]] 도구 칸 · 감수 대기 12→13건
+
+## [2026-09-07] ops | 프롬프트 저장소 문
+
+- 허브: [[프롬프트 템플릿/_index]] — 꺼내기=`프롬프트 템플릿/` · 넣기=inbox `프롬프트-*.md` (문 둘로 안 염)
+- AGENTS ingest 9 · DESIGN 폴더 한 줄 · 사서 스킬 ingest 예외
+- Work 대시보드 이관 대기 — 윈도우에서 inbox push
+
+## [2026-09-07] ops | 앞선 저장소 문 철회
+
+- `_index`·ingest 9·폴더 한 줄 확장 철회. Work 대시보드는 폴더 복사가 아니라 시스템 자리. 위키 inbox 레인으로 돌리지 않음
+
+## [2026-09-07] ingest | inbox 3
+
+- [[library/notes/고문-2026-09-07-유튜브-루트노드]] (고문 유튜브 6편·루트 노드·Wolf)
+- [[library/notes/프롬프트-리스트-대시보드]] (코덱스 개통 · 공장 · 비공개)
+- [[library/notes/역행자와-AI-독서쓰기]] (챗지피티)
+- 원본 `_archive/` · 감수 대기 13→16건
+
+## [2026-09-07] 정식 | `[x] 감수` 12건
+
+- [[library/notes/고문-2026-09-07-유튜브-루트노드]] · [[library/notes/역행자와-AI-독서쓰기]] · [[library/notes/MTS-메이크-타임-시스템]] · [[레딧 Reddit-사용법]] · [[library/notes/유튜브-건강식의-함정]] · [[library/notes/유튜브-캘리그라피-일상기록]] · [[library/notes/유튜브-소나무-둥치-질감]] · [[library/notes/유튜브-챗지피티-워크-5가지]] · [[library/notes/유튜브-텔로미어-늙지않는-사람들]] · [[library/notes/MVP-최소기능버전]] · [[library/notes/첫-작품을-살아있는-도구로]] · [[library/notes/ChatGPT-모델-한도와-Luna]] → `status: final`
+- [[map/감수-대기]] 16→4건 · `unreviewed-explorer` 재생성
+- 이동: [[library/projects/프롬프트-리스트-대시보드]] — notes → projects. 사이트·공장 GitHub 폴더 링크
+- Cursor 왼쪽 패널 잔여 `oso-wiki` 프로젝트 캐시 삭제 (`~/Repos/oso-wiki` 디스크에는 이미 없음)
+
+## [2026-09-07] 정식 | `[x] 감수` 4건 · 캘리 쉼 · oso-wiki
+
+- [[library/projects/프롬프트-리스트-대시보드]] · ★5 [[library/projects/프로젝트-진행단계-템플릿]] · [[library/notes/유튜브-스타십-완성-이후]] · [[library/notes/유튜브-일론-인류-5년]] → `status: final`
+- [[map/감수-대기]] 4→0건 · `unreviewed-explorer` 비움
+- 오늘 캘리수업 **쉼** — 구글 캘린더 당일 인스턴스만. 월요일 반복은 그대로
+- Cursor `oso-wiki` (`~/Repos/oso-wiki`) 최근 프로젝트·workspaceStorage 기록 삭제. 디스크 폴더는 원래 없음
+

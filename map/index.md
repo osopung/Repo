@@ -12,6 +12,11 @@
 - [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 
 ## 최근
+- [[library/projects/프롬프트-리스트-대시보드|프롬프트 리스트 대시보드]]
+- [[library/notes/고문-2026-09-07-유튜브-루트노드|고문 9/7 유튜브 · 루트 노드]]
+- [[library/notes/역행자와-AI-독서쓰기|역행자와 AI 독서·쓰기]]
+- [[library/notes/MTS-메이크-타임-시스템|MTS — Make Time System]]
+- [[레딧 Reddit-사용법|레딧 사용법]]
 - ★5 [[_archive/youtube-에이전트-학습-천재적-방법-스크립트|에이전트 학습 천재적 방법 — 스크립트]]
 - ★5 [[library/notes/세션-샌드|세션 샌드]]
 - ★5 [[library/notes/크론잡과-학습루프|크론잡과 학습루프]]
