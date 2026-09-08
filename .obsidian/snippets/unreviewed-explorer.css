@@ -1,3 +1,8 @@
-/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-09-07 · 감수 0건) */
+/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-09-08 · 감수 1건) */
 /* [[map/감수-대기]] 와 같은 목록 — 접속·lint·정식화 때 사서가 재생성 */
-/* 대기 항목이 없으면 선택자를 두지 않는다. */
+
+.nav-file-title[data-path="library/notes/증강-자동화-조직화.md"],
+.nav-file-title[data-path="library/notes/증강-자동화-조직화.md"] .nav-file-title-content {
+  color: #e03e2d !important;
+  text-decoration: underline;
+}
