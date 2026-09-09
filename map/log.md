@@ -1490,3 +1490,10 @@ append-only. 과거 블록은 수정하지 않는다.
 - inbox 유튜브 링크·클립 메모는 접속 시 자동 ingest하지 않음 — inbox에 그대로 두고 편집장 지시를 따름
 - AGENTS(표·명령·ingest 1-1·유튜브 루프) · DESIGN-v2(§2-1·§7) · [[오소풍]] 카드에 반영
 
+## [2026-09-09] 스크립트 | 유튜브 2편 자막 전문
+
+- [[_archive/youtube-제미나이-신기능-10가지-스크립트]] (AI 뚝딱 · 19:15 · 게시 2026-09-08) · [[_archive/youtube-유영만-유능함의-덫-스크립트]] (지식인사이드 EP.20 유영만 · 23:08 · 게시 2026-08-31)
+- 편집장 지시로 자막 전문만 추출 — 노트 재탄생·ingest 아님. 링크 원본 `inbox/AI 뚝딱`·`inbox/지식인사이드`는 inbox에 그대로 (지시 대기 규칙) · `inbox/AI 뚝딱 1`은 같은 URL 중복
+- 추출 경로: youtube_transcript_api (ko 자동자막) — yt-dlp는 JS 런타임 없어 느려서 실패·중단
+- 감수 대기 2→4건 · unreviewed-explorer 재생성
+

@@ -1,0 +1,1 @@
+[AI 뚝딱](https://youtu.be/9RZS9yicqSI)
