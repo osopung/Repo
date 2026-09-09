@@ -12,6 +12,7 @@
 - [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 
 ## 최근
+- [[conversations/2026-09-09-오소풍-AI-Studio-창립|오소풍 AI Studio 창립]] · [[library/projects/1인기업|오소풍 AI Studio]]
 - [[library/projects/1인기업|1인기업]] · [[conversations/2026-09-08-1인기업-창설|1인기업 창설]] · [[map/weekly/2026-09-W1|2026-09-W1]]
 - [[library/notes/증강-자동화-조직화|증강 · 자동화 · 조직화]]
 - [[library/projects/프롬프트-리스트-대시보드|프롬프트 리스트 대시보드]]

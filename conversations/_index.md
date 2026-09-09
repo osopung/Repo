@@ -5,6 +5,7 @@
 
 ## 최근
 
+- [[conversations/2026-09-09-오소풍-AI-Studio-창립|2026-09-09 · 오소풍 AI Studio 창립]]
 - [[conversations/2026-09-08-1인기업-창설|2026-09-08 · 1인기업 창설]]
 - [[conversations/2026-09-05-집-설계도-완성|2026-09-05 · 집 설계도 완성 · 6인 조직]]
 - [[conversations/2026-09-02-drive-스트림|2026-09-02 · Drive 스트림 · 맞춰]]
@@ -47,6 +48,7 @@
 - [[conversations/2026-08-19-다독다독-접목|헤르메스 텔레그램 그룹 · NotebookLM]]
 - [[conversations/2026-09-05-집-설계도-완성|inbox 레인 통일 · 공문 5통 · 고문 클론 복구]]
 - [[conversations/2026-09-08-1인기업-창설|1인기업 · 윈도우·챗지피티 · 집은 장부]]
+- [[conversations/2026-09-09-오소풍-AI-Studio-창립|오소풍 AI Studio 창립 · 내부 창설·가동 준비]]
 
 ### life
 - [[conversations/2026-08-12-일인소송-왕길역|일인소송 · 왕길역]] · [[library/projects/일인소송/_index|프로젝트]]
