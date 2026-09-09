@@ -1480,3 +1480,8 @@ append-only. 과거 블록은 수정하지 않는다.
 - 구글 문서 `1cQ0eq_kZ9T6nOLfupPRIfXKVAeiAfo4L6zjv1KTa3QE` → `오소풍 AI Studio/` (기준·Factory·합류·운영내력)
 - 사서는 이후 내력을 [[오소풍 AI Studio/운영내력]]에 append
 
+## [2026-09-09] 결정 | 헤르메스 PR 마감
+
+- 수동 인계 PR 생성·승인·병합 완료. Factory 내부 설립 절차 마감
+- [[오소풍 AI Studio/운영내력]]
+
