@@ -1,8 +1,10 @@
-/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-09-09 · 감수 1건) */
+/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-09-09 · 감수 2건) */
 /* [[map/감수-대기]] 와 같은 목록 — 접속·lint·정식화 때 사서가 재생성 */
 
 .nav-file-title[data-path="library/projects/1인기업.md"],
-.nav-file-title[data-path="library/projects/1인기업.md"] .nav-file-title-content {
+.nav-file-title[data-path="library/projects/1인기업.md"] .nav-file-title-content,
+.nav-file-title[data-path="오소풍 AI Studio/_index.md"],
+.nav-file-title[data-path="오소풍 AI Studio/_index.md"] .nav-file-title-content {
   color: #e03e2d !important;
   text-decoration: underline;
 }

@@ -1475,3 +1475,8 @@ append-only. 과거 블록은 수정하지 않는다.
 
 - `inbox/에이전트와 사람이 함께 일하는 시스템 설계.md` — 링크만. 본문은 로그인 벽. 원본 `_archive/`. 노트 재탄생 안 함 (창립 보고가 장부에 있음)
 
+## [2026-09-09] 회사 서류 | 오소풍 AI Studio 폴더
+
+- 구글 문서 `1cQ0eq_kZ9T6nOLfupPRIfXKVAeiAfo4L6zjv1KTa3QE` → `오소풍 AI Studio/` (기준·Factory·합류·운영내력)
+- 사서는 이후 내력을 [[오소풍 AI Studio/운영내력]]에 append
+
