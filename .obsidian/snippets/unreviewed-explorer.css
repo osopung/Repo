@@ -1,4 +1,4 @@
-/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-09-09 · 감수 4건) */
+/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-09-09 · 감수 6건) */
 /* [[map/감수-대기]] 와 같은 목록 — 접속·lint·정식화 때 사서가 재생성 */
 
 .nav-file-title[data-path="library/projects/1인기업.md"],
@@ -8,7 +8,11 @@
 .nav-file-title[data-path="_archive/youtube-제미나이-신기능-10가지-스크립트.md"],
 .nav-file-title[data-path="_archive/youtube-제미나이-신기능-10가지-스크립트.md"] .nav-file-title-content,
 .nav-file-title[data-path="_archive/youtube-유영만-유능함의-덫-스크립트.md"],
-.nav-file-title[data-path="_archive/youtube-유영만-유능함의-덫-스크립트.md"] .nav-file-title-content {
+.nav-file-title[data-path="_archive/youtube-유영만-유능함의-덫-스크립트.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/유튜브-제미나이-신기능-10가지.md"],
+.nav-file-title[data-path="library/notes/유튜브-제미나이-신기능-10가지.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/유튜브-유영만-유능함의-덫.md"],
+.nav-file-title[data-path="library/notes/유튜브-유영만-유능함의-덫.md"] .nav-file-title-content {
   color: #e03e2d !important;
   text-decoration: underline;
 }

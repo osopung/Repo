@@ -12,6 +12,7 @@
 - [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 
 ## 최근
+- [[library/notes/유튜브-제미나이-신기능-10가지|제미나이 신기능 10가지]] · [[library/notes/유튜브-유영만-유능함의-덫|유영만 유능함의 덫]]
 - [[오소풍 AI Studio/_index|오소풍 AI Studio]] · [[오소풍 AI Studio/운영내력|운영내력]]
 - [[conversations/2026-09-09-오소풍-AI-Studio-창립|오소풍 AI Studio 창립]] · [[library/projects/1인기업|오소풍 AI Studio]]
 - [[library/projects/1인기업|1인기업]] · [[conversations/2026-09-08-1인기업-창설|1인기업 창설]] · [[map/weekly/2026-09-W1|2026-09-W1]]

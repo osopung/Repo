@@ -1497,3 +1497,10 @@ append-only. 과거 블록은 수정하지 않는다.
 - 추출 경로: youtube_transcript_api (ko 자동자막) — yt-dlp는 JS 런타임 없어 느려서 실패·중단
 - 감수 대기 2→4건 · unreviewed-explorer 재생성
 
+## [2026-09-09] ingest | 유튜브 2편 노트 재탄생
+
+- 편집장 지시 「둘 다 각각 위키 노트로」 — 유튜브 루프의 위키 연결 단계
+- [[library/notes/유튜브-제미나이-신기능-10가지]] · [[library/notes/유튜브-유영만-유능함의-덫]] — 내용 정리 · 사서 인사이트(초안) · 내 한 줄(초안) · `status: draft`
+- 원본 스크립트는 `_archive`에 그대로 · `## 연결`에 원본 링크 · inbox 링크 파일은 유지
+- index「최근」소량 갱신 · 감수 대기 4→6건 · unreviewed-explorer 재생성
+
