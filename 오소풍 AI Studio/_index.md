@@ -40,6 +40,7 @@ Factory 에이전트는 위키를 열거나 고치지 않는다. 사서는 이 �
 | [[오소풍 AI Studio/03-합류/에이전트-합류-행동지침\|03-합류]] | 합류 지침 · Cursor 시험 · 헤르메스 겸직 |
 | [[오소풍 AI Studio/운영내력\|운영내력]] | append-only. 사서가 잇는다 |
 | [[오소풍 AI Studio/원본\|원본]] | 구글 문서 |
+| 산출물 (Drive) | [오소풍 AI Studio](https://drive.google.com/drive/folders/12UYup-XvHqpwJAwKsPoJ-3K2uqUikrY5) — 책 · 시화 · 앱 (+책/편지 원고). 사서가 정리 (2026-09-10) |
 
 ## 조직 (확정)
 
