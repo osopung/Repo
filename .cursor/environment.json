@@ -1,0 +1,4 @@
+{
+  "name": "오소풍_wiki",
+  "install": "git --version && node --version && python3 --version"
+}
