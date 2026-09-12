@@ -1552,3 +1552,10 @@ append-only. 과거 블록은 수정하지 않는다.
 - [[library/notes/클로드코드-5단계-코덱스-비교]] — 5단계 ≈ 공장 코덱스 레인. 도구 교체 아님. 핵 = 피드백을 매뉴얼에 반영
 - inbox 링크 파일은 유지 · 감수 대기 5→7건
 
+## [2026-09-12] 결정 | Factory 매뉴얼 반영
+
+- 편집장: 적용 자리 = **Factory 폴더 전체** (한 앱 아님)
+- 공장 루트 `AGENTS.md`에 「매뉴얼 반영」절 · 집 사본 [[오소풍 AI Studio/02-Factory/공용-작업-규칙]] · [[library/ops/코덱스에게]]
+- Factory는 `work/cursor/20260912-01-manual-reflect` 브랜치 (main 직접 쓰기 금지)
+- [[library/notes/클로드코드-5단계-코덱스-비교]] 정식 · 감수 대기 7→6건
+
