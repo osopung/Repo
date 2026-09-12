@@ -2,8 +2,8 @@
 title: "오소풍 AI Studio"
 type: moc
 domain: other
-status: draft
-updated: 2026-09-09
+status: final
+updated: 2026-09-12
 media:
   - "https://docs.google.com/document/d/1cQ0eq_kZ9T6nOLfupPRIfXKVAeiAfo4L6zjv1KTa3QE/edit"
 ---
