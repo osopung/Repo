@@ -1536,3 +1536,12 @@ append-only. 과거 블록은 수정하지 않는다.
 - 노션 시화DB 새 페이지: https://app.notion.com/p/osopung58/3d98feffc857804ba5dad3eb795579de
 - 위키 [[art/drawing/안도현-사랑]] · [[art/_index]] · 운영내력 9/12 · 감수 대기 5→6건
 
+## [2026-09-12] 정식 | `[x] 감수` 안도현 「사랑」
+
+- [[art/drawing/안도현-사랑]] → `status: final` · 감수 대기 6→5건
+
+## [2026-09-12] art | 능소화편지
+
+- 노션 시화DB: https://app.notion.com/p/osopung58/3d98feffc857811db980d378c6c1d03f (제목 능소화편지 · 사진 3)
+- 집 카드는 기존 [[art/drawing/하림에게-그림편지]]에 항목 URL만 이음 (중복 작품 페이지 없음)
+

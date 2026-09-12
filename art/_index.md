@@ -15,7 +15,7 @@
 
 ## Drawing · 시화
 - [[art/drawing/안도현-사랑|안도현 「사랑」]] (노션 원본)
-- [[art/drawing/하림에게-그림편지|하림에게 — 아빠의 그림편지]] (사진 `assets/` 유지)
+- [[art/drawing/하림에게-그림편지|하림에게 — 아빠의 그림편지]] ([노션 · 능소화편지](https://app.notion.com/p/osopung58/3d98feffc857811db980d378c6c1d03f))
 
 ## Photo
 - (선별작 링크)
