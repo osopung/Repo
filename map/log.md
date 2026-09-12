@@ -1531,3 +1531,8 @@ append-only. 과거 블록은 수정하지 않는다.
 - Tasks는 이 환경에 도구가 없어 못 넣음
 - inbox 유튜브 2건(`AI 뚝딱` · `지식인사이드`)은 지시 대기
 
+## [2026-09-12] art | 안도현 「사랑」 시화
+
+- 노션 시화DB 새 페이지: https://app.notion.com/p/osopung58/3d98feffc857804ba5dad3eb795579de
+- 위키 [[art/drawing/안도현-사랑]] · [[art/_index]] · 운영내력 9/12 · 감수 대기 5→6건
+
