@@ -1575,3 +1575,8 @@ append-only. 과거 블록은 수정하지 않는다.
 - 편집장 승인. weekly 제안 A 반영.
 - 7. **회사는 공장에서, 남긴 것은 집에** — 일은 Factory. 집은 기록·장부. 위키에 두 번째 사령탑을 만들지 않는다.
 
+## [2026-09-13] Factory | 매뉴얼 반영 main 병합
+
+- `work/cursor/20260912-01-manual-reflect` → `osopung/Factory` `main` (`c04c2f5`)
+- [[map/moc/스킬]] 한 줄 · [[오소풍 AI Studio/운영내력]] 9/13
+
