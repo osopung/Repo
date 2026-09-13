@@ -12,12 +12,12 @@
 - [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 
 ## 최근
-- [[library/notes/클로드코드-5단계-코덱스-비교|클로드 코드 5단계 · 코덱스 비교]] · [[_archive/youtube-클로드코드-실무편-스크립트|클로드 코드 실무편 스크립트]]
+- [[map/weekly/2026-09-W1|weekly 2026-09-W1]] · [[library/notes/클로드코드-5단계-코덱스-비교|클로드 코드 5단계 · 코덱스 비교]]
 - [[art/drawing/하림에게-그림편지|능소화편지]] · [[art/drawing/안도현-사랑|안도현 「사랑」]] · [[map/daily/2026-09-12|daily 9/12]] · [[library/notes/김현승-눈물|김현승 「눈물」]]
 - [[library/notes/유튜브-제미나이-신기능-10가지|제미나이 신기능 10가지]] · [[library/notes/유튜브-유영만-유능함의-덫|유영만 유능함의 덫]]
 - [[오소풍 AI Studio/_index|오소풍 AI Studio]] · [[오소풍 AI Studio/운영내력|운영내력]]
 - [[conversations/2026-09-09-오소풍-AI-Studio-창립|오소풍 AI Studio 창립]] · [[library/projects/1인기업|오소풍 AI Studio]]
-- [[library/projects/1인기업|1인기업]] · [[conversations/2026-09-08-1인기업-창설|1인기업 창설]] · [[map/weekly/2026-09-W1|2026-09-W1]]
+- [[library/projects/1인기업|1인기업]] · [[conversations/2026-09-08-1인기업-창설|1인기업 창설]]
 - [[library/notes/증강-자동화-조직화|증강 · 자동화 · 조직화]]
 - [[library/projects/프롬프트-리스트-대시보드|프롬프트 리스트 대시보드]]
 - [[library/notes/고문-2026-09-07-유튜브-루트노드|고문 9/7 유튜브 · 루트 노드]]
