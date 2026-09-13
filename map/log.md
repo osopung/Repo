@@ -1580,3 +1580,8 @@ append-only. 과거 블록은 수정하지 않는다.
 - `work/cursor/20260912-01-manual-reflect` → `osopung/Factory` `main` (`c04c2f5`)
 - [[map/moc/스킬]] 한 줄 · [[오소풍 AI Studio/운영내력]] 9/13
 
+## [2026-09-13] Factory | AGENTS 다이어트
+
+- 루트 한 절이 길어지면 본문은 스킬로, 루트에는 링크만. 편집장 승인.
+- 집 사본 [[오소풍 AI Studio/02-Factory/공용-작업-규칙]] · [[library/ops/코덱스에게]]
+
