@@ -12,6 +12,7 @@
 - [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 
 ## 최근
+- [[library/notes/유튜브-노트북LM-포스터-코딩|노트북LM · 김민정]]
 - ★5 [[library/notes/헤르메스-봇팀|헤르메스 봇팀]]
 - [[map/daily/2026-09-17|daily 9/17 (목)]] · [[map/daily/2026-09-16|daily 9/16 (수)]]
 - [[art/drawing/하림에게-그림편지|능소화편지]] · [[art/drawing/안도현-사랑|안도현 「사랑」]] · [[map/daily/2026-09-12|daily 9/12]] · [[library/notes/김현승-눈물|김현승 「눈물」]]

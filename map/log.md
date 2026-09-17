@@ -1623,3 +1623,9 @@ append-only. 과거 블록은 수정하지 않는다.
 - [[library/notes/헤르메스-봇팀]] · [[map/moc/5스타]] · 약어 `봇팀`
 - 출처 티타임즈TV 김민정 (18:51–30:52). 한 줄 (초안) 감수 대기
 
+## [2026-09-17] youtube | 노트북LM 김민정 스크립트·형광
+
+- 편집장: 스크립트 추출 · 주요 대목 형광
+- [[library/notes/유튜브-노트북LM-포스터-코딩]] · [[_archive/youtube-노트북LM-김민정-스크립트]]
+- https://youtu.be/8hwNZeB_ZgQ
+

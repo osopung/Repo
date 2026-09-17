@@ -37,6 +37,7 @@ LLM Wiki를 Zotero·NotebookLM과 묶어 외부 지식을 보충하는 조합. �
 ## 연결
 
 - 원본 스크립트: [[_archive/조테로-NotebookLM-LLM-wiki-스크립트|스크립트]]
+- 김민정 노트북LM 형광: [[library/notes/유튜브-노트북LM-포스터-코딩]]
 - [[library/notes/조테로-옵시디언-세컨드브레인|세컨드브레인]] · [[library/notes/조테로-옵시디언-설치-사용법|설치·사용법]]
 - [[library/notes/브레인-트리니티-형광-대화-인사이트|브레인 트리니티]] · [[오소풍]]
 - [[conversations/2026-08-19-다독다독-접목]]
