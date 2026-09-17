@@ -2,7 +2,7 @@
 title: "노트북LM으로 포스터 만들고 코딩하고, 별걸 다하네?"
 type: note
 domain: other
-status: draft
+status: final
 updated: 2026-09-17
 media: []
 topics: [유튜브, 노트북LM, NotebookLM, 김민정, 제미나이]
@@ -92,13 +92,14 @@ source: "https://youtu.be/8hwNZeB_ZgQ"
 
 - ==의도한 대로인지, 가이드라인을 넘기지 않았는지 비교하고 최종 선택하는 것이 사람의 몫.== 매뉴얼·약관은 노트북에 들고 다닌다.
 
-## 사서 인사이트 (초안)
+## 사서 인사이트
 
 집의 감수와 같은 결이다. 노트북LM은 **소스 칸의 검수기**, 제미나이·코덱스는 **창작·손발**. 한 창에 몰빵하지 말라는 ★5 [[library/notes/에이전트-4대개념|세션 분리]]와도 같다. 드라이브 동기화는 ★5 [[library/notes/오소풍-공유폴더|오소풍-공유폴더]]와 맞닿는다. `essays/notebookLM/` 두 편은 본문이 아니라고 이미 갈라 두었다 — 이 영상은 그 칸을 **검수·재창출**로 쓰는 법이다.
 
 ## 연결
 
 - 영상 <https://youtu.be/8hwNZeB_ZgQ> · 원본 [[_archive/youtube-노트북LM-김민정-스크립트|스크립트]]
+- 옮긴 글 [[library/notes/티스토리-노트북LM-검수기|티스토리 · X 카드]] · [osopung.tistory.com/58](https://osopung.tistory.com/58) · [X @hoyadiya](https://x.com/hoyadiya)
 - [[library/notes/조테로-NotebookLM-LLM-wiki]] · [[essays/notebookLM/소풍헌의-고독과-기록]]
 - ★5 [[library/notes/헤르메스-봇팀|헤르메스 봇팀]] · ★5 [[library/notes/에이전트-4대개념]]
 - [[library/notes/유튜브-제미나이-신기능-10가지]]

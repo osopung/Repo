@@ -12,6 +12,7 @@
 - [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 
 ## 최근
+- [[library/notes/티스토리-노트북LM-검수기|티스토리 · 노트북LM 검수기]]
 - [[library/skills/사서-스킬-글-여백|글 여백]]
 - [[library/notes/유튜브-노트북LM-포스터-코딩|노트북LM · 김민정]]
 - ★5 [[library/notes/헤르메스-봇팀|헤르메스 봇팀]]

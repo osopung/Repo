@@ -1635,3 +1635,9 @@ append-only. 과거 블록은 수정하지 않는다.
 - [[library/skills/사서-스킬-글-여백]] · `.cursor/skills/librarian-prose/`
 - 스크립트·형광 노트 문단 여백 반영
 
+## [2026-09-17] 기록 | 티스토리 58 · X 카드 5장
+
+- 편집장: osopung.tistory.com/58 · X @hoyadiya 카드 5장
+- [[library/notes/티스토리-노트북LM-검수기]]
+- 본문 https://x.com/hoyadiya/status/2100570406390567029 · 카드 5 https://x.com/hoyadiya/status/2100570914668888330
+
