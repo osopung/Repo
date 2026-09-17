@@ -1641,3 +1641,8 @@ append-only. 과거 블록은 수정하지 않는다.
 - [[library/notes/티스토리-노트북LM-검수기]]
 - 본문 https://x.com/hoyadiya/status/2100570406390567029 · 카드 5 https://x.com/hoyadiya/status/2100570914668888330
 
+## [2026-09-17] daily | 하이라이트 정식
+
+- 편집장: Tistory 블로그 1 + X 카드 5
+- [[map/daily/2026-09-17]] · [[Home]]
+
