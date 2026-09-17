@@ -1629,3 +1629,9 @@ append-only. 과거 블록은 수정하지 않는다.
 - [[library/notes/유튜브-노트북LM-포스터-코딩]] · [[_archive/youtube-노트북LM-김민정-스크립트]]
 - https://youtu.be/8hwNZeB_ZgQ
 
+## [2026-09-17] 스킬 | 글 여백
+
+- 편집장: 글을 보기 쉽게 여백을 충분히 두고 문단을 끊어 정리하라. 스킬에 박아 두고 늘 상기.
+- [[library/skills/사서-스킬-글-여백]] · `.cursor/skills/librarian-prose/`
+- 스크립트·형광 노트 문단 여백 반영
+
