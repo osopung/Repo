@@ -1646,3 +1646,8 @@ append-only. 과거 블록은 수정하지 않는다.
 - 편집장: Tistory 블로그 1 + X 카드 5
 - [[map/daily/2026-09-17]] · [[Home]]
 
+## [2026-09-20] lint | 감수 정식 3건
+
+- [[library/notes/티스토리-노트북LM-검수기]] · [[library/notes/헤르메스-봇팀]] · [[_archive/youtube-노트북LM-김민정-스크립트]] → `status: final`
+- 감수 대기 6→3건
+

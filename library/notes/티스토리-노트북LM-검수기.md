@@ -2,7 +2,7 @@
 title: "노트북LM은 '저장고'가 아니라 '검수기'였다"
 type: note
 domain: literature
-status: draft
+status: final
 updated: 2026-09-17
 media: []
 topics: [티스토리, 노트북LM, X, hoyadiya]
@@ -16,9 +16,9 @@ source: "https://osopung.tistory.com/58"
 
 ## 내 한 줄
 
-(초안) 노트북LM은 저장고가 아니라 검수기 — 창작은 다른 도구, 최종 선택은 내가.
+노트북LM은 저장고가 아니라 검수기 — 창작은 다른 도구, 최종 선택은 내가.
 
-- [ ] 감수
+- [x] 감수
 
 ## 티스토리
 
