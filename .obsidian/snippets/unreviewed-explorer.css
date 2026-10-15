@@ -1,12 +1,24 @@
-/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-09-20 · 감수 3건) */
+/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-10-15 · 감수 9건) */
 /* [[map/감수-대기]] 와 같은 목록 — 접속·lint·정식화 때 사서가 재생성 */
 
-.nav-file-title[data-path="_archive/youtube-클로드코드-실무편-스크립트.md"],
-.nav-file-title[data-path="_archive/youtube-클로드코드-실무편-스크립트.md"] .nav-file-title-content,
-.nav-file-title[data-path="_archive/youtube-제미나이-신기능-10가지-스크립트.md"],
-.nav-file-title[data-path="_archive/youtube-제미나이-신기능-10가지-스크립트.md"] .nav-file-title-content,
-.nav-file-title[data-path="_archive/youtube-유영만-유능함의-덫-스크립트.md"],
-.nav-file-title[data-path="_archive/youtube-유영만-유능함의-덫-스크립트.md"] .nav-file-title-content {
+.nav-file-title[data-path="library/notes/김삿갓-공부의-결실.md"],
+.nav-file-title[data-path="library/notes/김삿갓-공부의-결실.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/김삿갓-방랑-고백록.md"],
+.nav-file-title[data-path="library/notes/김삿갓-방랑-고백록.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/김삿갓-후반생-슬라이드.md"],
+.nav-file-title[data-path="library/notes/김삿갓-후반생-슬라이드.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/인프라노더스-지식공백.md"],
+.nav-file-title[data-path="library/notes/인프라노더스-지식공백.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/챗지피티-워크-10가지.md"],
+.nav-file-title[data-path="library/notes/챗지피티-워크-10가지.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/카카오톡-챗지피티-화면제어.md"],
+.nav-file-title[data-path="library/notes/카카오톡-챗지피티-화면제어.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/아침-첫-60분.md"],
+.nav-file-title[data-path="library/notes/아침-첫-60분.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/카다멈과-실론-시나몬.md"],
+.nav-file-title[data-path="library/notes/카다멈과-실론-시나몬.md"] .nav-file-title-content,
+.nav-file-title[data-path="library/notes/몸속-부엌의-지혜.md"],
+.nav-file-title[data-path="library/notes/몸속-부엌의-지혜.md"] .nav-file-title-content {
   color: #e03e2d !important;
   text-decoration: underline;
 }
