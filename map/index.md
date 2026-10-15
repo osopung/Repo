@@ -12,7 +12,7 @@
 - [[library/ideas (생각의 축)/바이브-코딩|바이브 코딩]]
 
 ## 최근
-- [[library/notes/김삿갓-공부의-결실|김삿갓 공부의 결실]] · [[library/notes/김삿갓-방랑-고백록|방랑 고백록]] · [[library/notes/김삿갓-후반생-슬라이드|후반생 슬라이드]]
+- [[essays/김삿갓-공부의-결실|김삿갓 공부의 결실]] · [[library/notes/김삿갓-방랑-고백록|방랑 고백록]] · [[library/notes/김삿갓-후반생-슬라이드|후반생 슬라이드]]
 - [[library/notes/인프라노더스-지식공백|인프라노더스 — 지식의 공백]] · [[library/notes/챗지피티-워크-10가지|워크 10가지]] · [[library/notes/카카오톡-챗지피티-화면제어|카카오톡 화면 제어]]
 - [[library/notes/아침-첫-60분|아침 첫 60분]] · [[library/notes/카다멈과-실론-시나몬|카다멈과 실론 시나몬]]
 - [[map/daily/2026-10-15|daily 10/15 (목)]] · [[map/weekly/2026-10-W3|weekly 2026-10-W3 (10/12–18)]] · [[map/weekly/2026-10-W2|weekly 2026-10-W2 (10/5–11)]]

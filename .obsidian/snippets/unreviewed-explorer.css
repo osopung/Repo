@@ -1,6 +1,8 @@
-/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-10-15 · 감수 9건) */
+/* 미감수 노트 — 파일 탐색기 빨간 글씨+밑줄 (2026-10-15 · 감수 10건) */
 /* [[map/감수-대기]] 와 같은 목록 — 접속·lint·정식화 때 사서가 재생성 */
 
+.nav-file-title[data-path="essays/김삿갓-공부의-결실.md"],
+.nav-file-title[data-path="essays/김삿갓-공부의-결실.md"] .nav-file-title-content,
 .nav-file-title[data-path="library/notes/김삿갓-공부의-결실.md"],
 .nav-file-title[data-path="library/notes/김삿갓-공부의-결실.md"] .nav-file-title-content,
 .nav-file-title[data-path="library/notes/김삿갓-방랑-고백록.md"],
